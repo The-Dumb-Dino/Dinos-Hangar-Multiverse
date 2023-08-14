@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+************
+   SHIPS
+************
+-->
+
+<!-- Unused
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_class">Lanius Cruiser</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_name">Cyrus</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_desc">This Lanius vessel looks like a royal variant of Lanius ships. Its blades are made out of gold but still seem very robust.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_unlock">Reach Sector 8 with the Shrike to unlock this vessel.</text>
+-->
+
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_desc">The Ocolus is an old but still reliable transport ship of the Federation, and is the sole remaining model of its kind; pirates were fond of stealing this series of ship. It has been refurbished with a better hull and stronger weapons.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_name">Ocolus</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_class">Federation Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_unlock">Defeat the Flagship with any layout of the Kestrel Cruiser to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_class">Federation Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_name">Monocrom</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_desc">The Monocrom is an older transporter ship that the Militia acquired ages ago, but it saw limited use until now.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_unlock">Get to Sector 8 with the Federation Tanker Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_desc">This old transporter was located in an asteroid field by a Federation scout.
+The ship endured some damage, but it survived. It was then repaired, so that it could fly again.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_name">Necrozma</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_class">Federation Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_unlock">Get to Sector 5 with the Federation Tanker Type B or defeat the Flagship with the Federation Tanker Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_name">Volt</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_class">Engi Destroyer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_desc">The Volt appears to be a harmless ship. Especially because it has no weapons, but it is equipped with plenty of drones that can both defend the ship and attack the opposite.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_unlock">Defeat the Flagship with any layout of the Federation Tanker to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_name">Watt</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_class">Engi Destroyer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc">The Watt is a rather weak ship;
+A very small reactor, a weak drone and weapons that can't even do any damage make it a weak target.
+It is said that only a good captain can get to something with this ship.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_unlock">Get to Sector 8 with the Engi Destroyer Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_name">Ampere</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_class">Engi Destroyer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc">The Ampere is a rather complicated ship;
+Drone and weapon must be in unison to cause damage.
+A real challenge.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_unlock">Get to Sector 5 with the Engi Destroyer Type B or defeat the Flagship with the Engi Destroyer Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_name">Stormbreaker</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_class">Federation Dreadnaught</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc">This is the Stormbreaker.
+Well known for its infamous artillery that burns ship hulls in seconds.
+The Stormbreaker was originally used as a renegade that protected bases and stations of the Federation. But now it is used to save the Multiverse.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_unlock">Defeat the Flagship with any layout of the Engi Destroyer to unlock this ship..</text>
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_name">Flamethrower</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_class">Federation Dreadnaught</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc">This is the Flamethrower.
+Like its sister ship the Stormbreaker its euquipped with an really hot artillery, but thats not all. It is outfitted with strong fire weapons and its crew was made for the heat.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_unlock">Get to Sector 8 with the Federation Dreadnaught Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_name">Bonecracker</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_class">Federation Dreadnaught</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc">This is the Bonecracker.
+Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to defeat such an elite and hijack it afterwards. But now its in the hands of the Federation again.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_unlock">Get to Sector 5 with the Federation Dreadnaught Type B or defeat the Flagship with the Federation Dreadnaught Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_name">Bequerel</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_desc">This vessel is researching new technology and is equipped with the new temporal manipulator system. This could be very helpful</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_unlock">Defeat the Flagship with any layout of the Federation Dreadnaught to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_name">Isotop</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_desc">Another researchcruiser, doing tests with the newly developed temporal manipulation technology. The Technology is used in combination of a mind control system.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_unlock">Get to Sector 8 with the Zoltan Researchcruiser Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_name">Röntgen</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_desc">This ship is a bit different. It does not use weapons in combat, instead its fighting with 2 boarding drones and temporal manipulation to fight.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_unlock">Get to Sector 5 with the Zoltan Researchcruiser Type B or defeat the Flagship with the Zoltan Researchcruiser Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_class">Mantis Warship</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_name">Satanic Leaf</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_desc">This precious Mantis vesell features a combination of the newly developed temoral manipulator and Mantis' favorite system, the teleporter. The combination allows deadly boarding attacks in a matter of seconds and should not be tampered with.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_unlock">Defeat the Flagship with any layout of the Zoltan Researchcruiser to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_class">Mantis Warship</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_name">Cthulhu</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc">This ship uses powerful drones and crew to fight and eliminate its enemies, but has a very poor arsenal of weapons that limit its true potential, for now.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_unlock">Get to Sector 8 with the Mantis Warship Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_class">Mantis Warship</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_name">Breker</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_desc">Equipped with a temporal manipulator and a teleporter combined with a fire and stun bomb, this ship can incinerate its enemies in seconds while killing the crew the old-fashioned way.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_unlock">Get to Sector 5 with the Mantis Warship Type B or defeat the Flagship with the Mantis Warship Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_name">The last Admiral</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_class">Slug Warship</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_desc">This ship is fitted with hacking technology thats often used by the Slugs.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_unlock">Defeat the Flagship with any layout of the Mantis Warship to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_name">Hurricane Trapper</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_class">Slug Warship</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_desc">This slug vessel is made of a bronze colored metal. It has no sensors but is equipped with mind control technology.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_unlock">Get to Sector 8 with the Slug Warship Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_name">Helicidae</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_class">Slug Warship</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_desc">This Slug ship carries a big variety of races on board and is equipped with a decent weapon arsenal.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_unlock">Get to Sector 5 with the Slug Warship Type B or defeat the Flagship with the Slug Warship Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_class">Lanius Salvager</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_name">Nitoc</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_desc">This Lanius ship was built to recover remains from shipwrecks. It's quite a powerful ship, although it arrived in the hangar with unfinished engines and shields.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_unlock">Defeat the Flagship with any layout of the Zoltan Researchcruiser to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_class">Lanius Salvager</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_name">Kirin</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_desc">This hive ship only loots high value shipwrecks. It is heavily armed and should not be trifled with.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_unlock">Get to Sector 8 with the Lanius Salvager Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_class">Lanius Salvager</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_name">Selas</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_desc">This Lanius ship is one of the newly discovered royal hive ships. The Lanius make them by eating lots of rare metal and assembling it. These rare metals are usually weak, but somehow it was designed to be very strong.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_unlock">Get to Sector 5 with the Lanius Salvager Type B or defeat the Flagship with the Lanius Salvager Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_COMMING_SOON_class">!!!PLACEHOLDER!!!</text>
+<text name="ship_PLAYER_COMMING_SOON_name">IN DEVELOPMENT</text>
+<text name="ship_PLAYER_COMMING_SOON_unlock">Placeholder for empty slots that will get a ship soon.(Beta build)</text>
+<text name="ship_PLAYER_COMMING_SOON_desc">Placeholder for empty slots that will get a ship soon.(Beta build)</text>
+
+<!--
+************
+  WEAPONS
+************
+-->
+
+<text name="weapon_CHAINGUN_HULL_desc">A really unique anti-hull laser which normally only is outfitted to bigger transport ships.</text>
+<text name="weapon_CHAINGUN_HULL_short">Hull CL</text>
+<text name="weapon_CHAINGUN_HULL_title">Hull Chainlaser</text>
+<text name="weapon_CHAINGUN_HULL_tooltip">Fires 2 shots which deals 1 hull damage, 2x on hul1, and becomes faster.</text>
+
+<text name="weapon_BEAM_SLICE_desc">A well designed beam which is able to cut its targets in half.</text>
+<text name="weapon_BEAM_SLICE_short">Slice Beam</text>
+<text name="weapon_BEAM_SLICE_title">Slice Beam</text>
+<text name="weapon_BEAM_SLICE_tooltip">Unleash a beam that deals 1 damage per room and has a high chance of breaching.</text>
+
+<text name="weapon_LASER_HEAVY_OUTDATED_desc">A old Heavy Laser type weapon that takes longer to charge.</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_short">Out. H.L.</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_title">Outdatet Heavy Laser</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_tooltip">An old Laser, but it can still be effective.</text>
+
+<text name="weapon_MISSILES_ION_desc">This is a unique rocket launcher, developed and created by the Militia; it fires a very strongly charged missile that ionizes systems and shields.</text>
+<text name="weapon_MISSILES_ION_short">Zeus</text>
+<text name="weapon_MISSILES_ION_title">Ion Missile</text>
+<text name="weapon_MISSILES_ION_tooltip">Fires a system and shield ionizing rocket.</text>
+
+<text name="weapon_LASER_BURST_FIRE_1_title">Fire Defense Laser Mark I</text>
+<text name="weapon_LASER_BURST_FIRE_1_short">Basic Firelaser I</text>
+<text name="weapon_LASER_BURST_FIRE_1_desc">This is a modified type of the defense laser that will ignite a fire when hit.</text>
+<text name="weapon_LASER_BURST_FIRE_1_tooltip">Modiefied basic laser, deals 1 damage and ignites a fire</text>
+
+<text name="weapon_LASER_HEAVY_FIRE_1_title">Heavy Fire Laser Mark I</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_short">Heavy Firelaser I</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_desc">This is a modified type of the heavy laser that will ignite a fire when hit.</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_tooltip">heavy fire laser, deals 2 damage and ignites a fire</text>
+
+<!--
+**************
+  ARTILLERYS
+**************
+-->
+
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_title">Modified Artillery Beam</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_short">Mod-Artillery</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_desc">This is a modified version of the standard Federation artillery beams; It deals 2 damage to the hull for every room it hits, but is not as long and fast. Can cause fire and breaches. More power means faster cooldown.</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_tooltip">Artillery: Moddedbeam that deals 2 damage, can set a fire, can cause breaches and pierces all shields.</text>
+
+<text name="weapon_ARTILLERY_FLAME_title">Fire Artillery Beam</text>
+<text name="weapon_ARTILLERY_FLAME_short">Fire-Artillery</text>
+<text name="weapon_ARTILLERY_FLAME_desc">Powers a very hot beam that sets every room it hits on fire, stuns and damages crew and ignores shields. Does not damage systems directly. More power means faster cooldown.</text>
+<text name="weapon_ARTILLERY_FLAME_tooltip">Artillery: Firebeam that deals 1 damage, sets a fire, damages and stuns crew and pierces shields.</text>
+
+<!--Ignore: These texts serve to hide a false bug in VSCode-->
+<text name="ship_PLAYER_SHIP_KESTREL_desc">This class of ship was decommissioned from Federation service years ago. After a number of refits and updates this classic ship is ready for battle.</text>
+<text name="ship_PLAYER_SHIP_KESTREL_2_desc">This modified Kestrel class ship was created by a laser weapon aficionado.</text>
+<text name="ship_PLAYER_SHIP_KESTREL_3_desc">This model was modified by pirates to utilize newly discovered technology. It can clone lost crewmembers and stun enemies.</text>
+<text name="system_oxygen_title">Oxygen</text>
+<text name="system_oxygen_desc">Refills the oxygen in the ship. Upgrading increases the rate of refill.</text>
+<text name="system_weapons_title">Weapon Control</text>
+<text name="system_weapons_desc">Powers all of the ship's weapons. Upgrading lets you power more weapons.</text>

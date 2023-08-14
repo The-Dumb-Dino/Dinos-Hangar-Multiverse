@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+************
+   SHIPS
+************
+-->
+
+<mod:findName type="text" name="ship_PLAYER_SHIP_JELLY_name" language="de">
+  <mod:setValue>Mann des Krieges</mod:setValue>
+</mod:findName>
+
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_class" language="de">Lanius-Kreuzer</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_name" language="de">Cyrus</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_desc" language="de">Dieses Laniusschiff sieht wie eine royale Variante der Laniusschiffe. Die Klingen scheinen aus Gold zu bestehen sind jedoch sehr robust.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_3_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Lanius-Kreuzer um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_name" language="de">Ocolus</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_class" language="de">Federation-Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_desc" language="de">Die Ocolus ist ein altes aber immernoch taugliches Transportschiff der Föderation und warscheinlich das letzte seiner Art, da es in den augen von Piraten leichte Beute war. Es wurde mit einer verbesserten Hülle und neuen Waffen ausgestattet und ist nun wieder voll funktionstüchtig.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Kestrelkreuzer, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_class" language="de">Federation-Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_name" language="de">Monocrom</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_desc" language="de">Die Monocrom ist ein alter nie eingesetzter Transporter der kürzlich abgekauft wurden.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Federation-Tanker Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_desc" language="de">Dieser alte Transporter wurde in einem Asteroidenfeld vo einem kleinen Föderationsshiff gefunden. Es muss dort mehrere Jahre gewartet haben. Nachdem es dort abgeholt wurde reparierte man es so wie nötig bis es wieder einsatzfähig war.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_name" language="de">Necrozma</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_class" language="de">Federation-Tanker</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_unlock" language="de">Erreiche Sektor 5 mit dem Federation-Tanker Typ B oder besiege das Flagschiff mit dem Federation-Tanker Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_name" language="de">Volt</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_class" language="de">Engi-Zerstörer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_desc" language="de">Die Volt ist erstmal ein ungefährliches Schiff zu sein.
+Vorallem weil es keine Waffen besitzt, allerdings ist es reichlich mit Dronen ausgestattet die sowohl das Schiff verteidigen als auch den Gegenüber attakieren können.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Federation-Tanker, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_name" language="de">Watt</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_class" language="de">Engi-Zerstörer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc" language="de">Die Watt ist ein eher schwaches Schiff;
+Ein sehr kleiner Reaktor, eine schwache Drone und Waffen die nicht einmal Schaden anrichten können machen es ein schwaches Ziel.
+Es heißt nur ein guter Capitain kann etwas mit diesen Schiff reißen.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Engi-Zerstörer Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_name" language="de">Ampere</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_class" language="de">Engi-Zerstörer</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc" language="de">Die Ampere ist ein eher kompliziertes Schiff,
+Drohne und Waffe müssen im Einklang sein, um Schaden anzurichte.
+Eine wohl wahre Herausforderun.
+A real challenge.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_unlock" language="de">Erreiche Sektor 5 mit dem Engi-Zerstörer Typ B oder besiege das Flagschiff mit dem Engi-Zerstörer Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_name" language="de">Sturmbrecher</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_class" language="de">Federation-Großkampfschiff</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc" language="de">Dies ist der Sturmbrecher.
+Weit bekannt für seine Artillerie welche bereits viele Schiffe in Sekunden verbrannte.
+Der Sturmbrecher diente in der Vergangenheit als ein elite Wächter einer vernichteten Federationsbasis.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_unlock" language="de">Besiege das Flagschiff mit einer Variante von Engi-Zerstörer, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_name" language="de">Flammenwerfer</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_class" language="de">Federation-Großkampfschiff</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc" language="de">Dies ist der FLammenwerfer.
+Ebenso wie sein Schwesterschiff den Sturmbrecher ist er mit einer feurigen Artillerie ausgestattet. Das ist aber nicht alles, ebenso besitzt er starke Brandwaffen und eine Besatzung die wie für die Flammen geschaffen wurde</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Federation-Großkampfschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_name" language="de">Knochenbrecher</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_class" language="de">Federation-Großkampfschiff</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc" language="de">Dies ist der Knochenbrecher.
+Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Piraten wohl geschafft solch eine Elite auszuschalten und daraufhin noch zu karpern. Aber jetzt liegt das Schiff wieder in den Händen der Federation.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_unlock" language="de">Erreiche Sektor 5 mit dem Federation-Großkampfschiff Typ B oder besiege das Flagschiff mit dem Federation-Großkampfschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_name" language="de">Bequerel</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_class" language="de">Zoltan-Forschungsschiff</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_desc" language="de">Dieses Schiff erforscht neue Technologie, es ist mit dem Zeitmanipulatorsystem ausgestattet. Dies könnte sehr nützlich sein.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Federation-Großkampfschiff, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_name" language="de">Isotop</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_class" language="de">Zoltan-Forschungsschiff</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_desc" language="de">Dies ist ein weiteres Forschungsschiff welches an der Zeitmanipulatortechnologie arbeitet. Dieses Schiff kämpft mit zusammenarbeit von Gedankenkontrolle und temporale Manipulation.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Zoltan-Forschungsschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_name" language="de">Röntgen</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_class" language="de">Zoltan-Forschungsschiff</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_desc" language="de">Dieses Schiff ist etwas anders. Es nutzt keine Waffen zum kämpfen, es nutzt 2 Dronen und Temporale Manipulation.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_unlock" language="de">Erreiche Sektor 5 mit dem Zoltan-Forschungsschiff Typ B oder besiege das Flagschiff mit dem Zoltan-Forschungsschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_class" language="de">Mantis-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_name" language="de">Satansblatt</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_desc" language="de">Diese Prächtige Schiff der Mantis umfasst eine Kombination aus dem neu entwickelten Temporalmanipulator und der von den Mantis geliebten Teleporter. Diese Kombination erlaubt tödliche Enterattacken in sekundenschnelle und sollte nicht mit gescherzt werden.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_unlock" language="de">Besiege das Flagschiff mit einer Variante von Zoltan-Forschungsschiff, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_class" language="de">Mantis-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_name" language="de">Cthulhu</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc" language="de">Dieses Schiff nutzt mächtige Drohnen und Besatzung im Kampf, um seine Feinde zu eliminieren, aber hat ein sehr schwaches Waffenarsenal was das volle Potential vorerst in Fesseln hält.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Mantis-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_class" language="de">Mantis-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_name" language="de">Breker</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_desc" language="de">Ausgestattet mit einem Temporalmanipulator und einem Teleporter kombiniert mit einer Feuer- und Betäubungsbombe, kann dieses Schiff die feindliche Besatzung bei lebendigem Leibe verbrennen und sie gleichzeitig auf die altbekannte Weise eliminieren.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_unlock" language="de">Erreiche Sektor 5 mit dem Mantis-Schlachtschiff Typ B oder besiege das Flagschiff mit dem Mantis-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_name" language="de">Der Letzte Admiral</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_class" language="de">Snecko-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_desc" language="de">Dieses Schiff wurde mit Hackingtechnologie ausgestattet welche gerne von den Sneckos genutzt wird.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_unlock" language="de">Besiege das Flagschiff mit einer Variante von Mantis-Schlachtschiff, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_name" language="de">Orkanfalle</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_class" language="de">Snecko-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_desc" language="de">Dieses Snecko-Schiff ist aus einem bronzefarbenen Metall gefertigt. Es hat keine Sensoren, ist aber mit einem Gedankenkontrolle-Systen ausgestattet.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Snecko-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_name" language="de">Helicidae</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_class" language="de">Snecko-Schlachtschiff</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_desc" language="de">Dieses Snecko-Schiff trägt Rassen aller Art an Bord und ist mit anständigen Waffen ausgestattet.</text>
+<text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_unlock" language="de">Erreiche Sektor 5 mit dem Snecko-Schlachtschiff Typ B oder besiege das Flagschiff mit dem Snecko-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_class" language="de">Lanius-Plünderer</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_name" language="de">Nitoc</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_desc" language="de">Dieses Lanius-Schiff wurde gebaut, um Überreste von Schiffswracks zu bergen. Es ist ein ziemlich mächtiges Schiff, obwohl es mit unfertigen Triebwerken und Schilden im Hangar ankam.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Zoltan-Forschungsschiff, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_class" language="de">Lanius-Plünderer</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_name" language="de">Kirin</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_desc" language="de">Dieses Schwarmschiff plündert nur hochwertige Schiffswracks. Es ist schwer bewaffnet und man sollte nicht damit spaßen.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Lanius-Plünderer Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_class" language="de">Lanius-Plünderer</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_name" language="de">Selas</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_desc" language="de">Dieses Lanius-Schiff ist eines der neu entdeckten königlichen Schwarmschiffe. Die Lanius stellen sie her, indem sie eine Menge seltenes Metall essen und es zusammensetzen. Diese seltenen Metalle sind normalerweise schwach, aber irgendwie wurde es sehr robust konstruiert.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_3_unlock" language="de">Erreiche Sektor 5 mit dem Lanius-Plünderer Typ B oder besiege das Flagschiff mit dem Lanius-Plünderer Typ A, um dieses Schiff freizuschalten.</text>
+
+<!--
+************
+  WEAPONS
+************
+-->
+
+<text name="weapon_CHAINGUN_HULL_desc" language="de">Ein ziemlich einzigartiger Hüllenlaser welcher normal für große Transportschiffe geignet ist.</text>
+<text name="weapon_CHAINGUN_HULL_short" language="de">Hüllen CL</text>
+<text name="weapon_CHAINGUN_HULL_title" language="de">Hüllen Chainlaser</text>
+<text name="weapon_CHAINGUN_HULL_tooltip" language="de">Feuert 2 Schüsse welche 1 trefferpunkt und 2x so viele auf der Hülle anrichten, wird schneller.</text>
+
+<text name="weapon_BEAM_SLICE_desc" language="de">Eine recht turbolent ladende Beam welche alles in 2 hälften schneiden kann.</text>
+<text name="weapon_BEAM_SLICE_short" language="de">Schlitzer</text>
+<text name="weapon_BEAM_SLICE_title" language="de">Schlitzerstrahl</text>
+<text name="weapon_BEAM_SLICE_tooltip" language="de">Schießt einen laserstrahl welcher 1 hüllenschaden pro raum verursacht, und erzeugt Brüche.</text>
+
+<text name="weapon_LASER_HEAVY_OUTDATED_desc" language="de"></text>
+<text name="weapon_LASER_HEAVY_OUTDATED_short" language="de">Alt S.L.</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_title" language="de">Veralteter schwerer Laser</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_tooltip" language="de"></text>
+
+<text name="weapon_MISSILES_ION_desc" language="de">Dies ist ein einzigartiger Raketenwerfer, von dem Millitia erforscht und gebaut, welcher eine stark geladene Rakete feuert die eine Schildblase bei einer Berürung überläd ebenso wie das System in die sie einschlägt. </text>
+<text name="weapon_MISSILES_ION_short" language="de">Zeus</text>
+<text name="weapon_MISSILES_ION_title" language="de">Ionenrakete</text>
+<text name="weapon_MISSILES_ION_tooltip" language="de">Feuert eine Schild und System überladende Rakete.</text>
+
+<text name="weapon_LASER_BURST_FIRE_1_title" language="de">Feuerabwehrlaser Mark I</text>
+<text name="weapon_LASER_BURST_FIRE_1_short" language="de">FAL I</text>
+<text name="weapon_LASER_BURST_FIRE_1_desc" language="de">Ein modifizierter Abwehrlaser ist nicht besonders stark aber entfacht ein Feuer beim Einschlag</text>
+<text name="weapon_LASER_BURST_FIRE_1_tooltip" language="de">Feuert 1 Schuss ab, verursacht 1 Schaden und entfacht ein Feuer.</text>
+
+<text name="weapon_LASER_HEAVY_FIRE_1_title" language="de">Schwerer Feuerlaser Mark I</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_short" language="de">SFL I</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_desc" language="de">Ein modifizierter schwerer Laser welcher beim Einschlag ein Feuer entfacht.</text>
+<text name="weapon_LASER_HEAVY_FIRE_1_tooltip" language="de">Feuert 1 Schuss ab, verursacht 2 Schaden und entfacht ein Feuer.</text>
+
+<!--
+**************
+  ARTILLERYS
+**************
+-->
+
+<mod:findName type="text" name="weapon_ARTILLERY_FED_short" language="de">
+  <mod:setValue>Geschützstrahl</mod:setValue>
+</mod:findName>
+
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_title" language="de">Modifizierter Geschützstrahl</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_short" language="de">Modstrahl</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_desc" language="de">Das ist eine umgebaute Art des standard Geschützstrahl der Federation; Verursacht 2 Hüllenschaden pro getroffenem Raum. In getroffenen Räumen kann ein Feuer oder Bruch verursacht werden.</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_tooltip" language="de">Geschütz: Ein umgebauter Strahl der alle Schilde durchdringt, 2 Schaden verursacht. Kann ein Feuer oder Bruch verursachen.</text>
+
+<text name="weapon_ARTILLERY_FLAME_title" language="de">Feuerstrahlgeschütz</text>
+<text name="weapon_ARTILLERY_FLAME_short" language="de">Feuerstrahl</text>
+<text name="weapon_ARTILLERY_FLAME_desc" language="de">Feuert einen sehr heißen Energiestrahl welcher einen Schadenspunkt pro getroffenem Raum verursacht jedoch Systeme nicht direkt beschädigen kann, entfalmmt jeden getroffenen Raum, betäubt und verwundet Crew und durchdringt alle Schilde.</text>
+<text name="weapon_ARTILLERY_FLAME_tooltip" language="de">Geschütz: Feuerstrahl der alle Schilde durchdringt, 1 Schaden verursacht, Crew betäubt und verwundet und getroffene Räume entflammt.</text>
+
+<!--
+*************
+  TOOLTIPS
+*************
+-->
+
+<text name="tip_missiles_ion" language="de">Tipp: Ionenraketen funktionieren genauso wie normale Raketen aber verursachen ebenso Ionenschaden wenn die eine Schildblase durchqueren und wenn sie einen Raum treffen.</text>

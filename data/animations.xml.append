@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+•••••••••••••••
+	WEAPONS
+•••••••••••••••
+-->
+
+<animSheet name="beam_slice" w="456" h="66" fw="38" fh="66">weapons/beam_slice_strip12.png</animSheet>
+<animSheet name="laser_heavy_outdatet" w="441" h="46" fw="21" fh="46">weapons/heavy_outdatet_strip21.png</animSheet>
+<animSheet name="missile_ion" w="69" h="38" fw="23" fh="38">weapons/missile_ion_strip3.png</animSheet>
+<animSheet name="laser_burst_fire_1" w="240" h="47" fw="20" fh="47">weapons/burst_fire_1_strip12.png</animSheet>
+<animSheet name="laser_heavy_fire_1" w="224" h="62" fw="28" fh="62">weapons/heavy_fire_1_strip8.png</animSheet>
+
+<weaponAnim name="beam_slice">
+	<sheet>beam_slice</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="23" y="35"/>
+	<mountPoint x="4" y="47"/>
+	<chargeImage>weapons/beam_slice_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="laser_heavy_outdatet">
+	<sheet>laser_heavy_outdatet</sheet>
+	<desc length="21" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint  x="14" y="4"/>
+	<mountPoint x="3" y="33"/>
+</weaponAnim>
+
+<weaponAnim name="missile_ion">
+    <sheet>missile_ion</sheet>
+    <desc length="3" x="0" y="0"/>
+    <chargedFrame>1</chargedFrame>
+    <fireFrame>2</fireFrame>
+    <firePoint  x="11" y="4"/>
+    <mountPoint x="3" y="28"/>
+    <chargeImage>weapons/missile_ion_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="laser_burst_fire_1">
+	<sheet>laser_burst_fire_1</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint  x="10" y="4"/>
+	<mountPoint x="2" y="32"/>
+	<chargeImage>weapons/burst_fire_1_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="laser_heavy_fire_1">
+	<sheet>laser_heavy_fire_1</sheet>
+	<desc length="8" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint  x="17" y="10"/>
+	<mountPoint x="3" y="41"/>
+	<chargeImage>weapons/heavy_fire_1_glow.png</chargeImage>
+</weaponAnim>
+
+<!--
+•••••••••••••••••••
+	PROJECTILES
+•••••••••••••••••••
+-->
+
+<animSheet name="ion_missile" w="27" h="39" fw="27" fh="39">weapons/ion_missile.png</animSheet>
+<animSheet name="laser_heavy_fire" w="200" h="20" fw="50" fh="20">weapons/laser_heavy_fire_strip4.png</animSheet>
+
+<anim name="laser_heavy_fire">
+	<sheet>laser_heavy_fire</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="ion_missile">
+	<sheet>ion_missile</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<!--
+•••••••••••••••••
+	THRUSTERS
+•••••••••••••••••
+-->
+
+<animSheet name="thruster_FIX" w="88" h="70" fw="22" fh="70">thrusters/thrusters_vanilla.png</animSheet>
+<animSheet name="thruster_transportcruiser_top" w="80" h="56" fw="20" fh="56">thrusters/thrusters_transportcruiser_top.png</animSheet>
+<animSheet name="thruster_transportcruiser_bottom" w="80" h="56" fw="20" fh="56">thrusters/thrusters_transportcruiser_bottom.png</animSheet>
+<animSheet name="thrusters_fed_dreadnaught_top" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_top.png</animSheet>
+<animSheet name="thrusters_fed_dreadnaught_bottom" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_bottom.png</animSheet>
+
+<anim name="thruster_FIX">
+	<sheet>thruster_FIX</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thruster_transportcruiser_top">
+	<sheet>thruster_transportcruiser_top</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thruster_transportcruiser_bottom">
+	<sheet>thruster_transportcruiser_bottom</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thrusters_fed_dreadnaught_top">
+	<sheet>thrusters_fed_dreadnaught_top</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thrusters_fed_dreadnaught_bottom">
+	<sheet>thrusters_fed_dreadnaught_bottom</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>

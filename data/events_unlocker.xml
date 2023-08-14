@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<event name="CHEAT_MENU_DINO" unique="true">
+    <text>This is the cheat menu in Dino's Hangar.
+        If you struggel too hard, want to try a ship, need to test something or something else then this menu will help you to unlock any ship with 2 clicks.
+        Press on a choice with the ships name to unlock it. Made this in a rush - will be enhanced.
+    </text>
+    <choice>
+        <text>Federation Tanker</text>
+        <event>
+            <text>This will unlock the Federation Tanker.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_FED_TANKER</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Engi Destroyer</text>
+        <event>
+            <text>This will unlock the Engi Destroyer.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_CIRCLE_DESTROYER</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Federation Dreadnaught</text>
+        <event>
+            <text>This will unlock the Federation Dreadnaught.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_FED_DREADNAUGHT</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Zoltan Researchcruiser</text>
+        <event>
+            <text>This will unlock the Zoltan Researchcruiser.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_ENERGY_RESEARCHCRUISER</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Mantis Warship</text>
+        <event>
+            <text>This will unlock the Mantis Warship.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_MANTIS_WARSHIP</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Slug Warship</text>
+        <event>
+            <text>This will unlock the Slug Warship.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_JELLY_WARSHIP</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Lanius Salvager</text>
+        <event>
+            <text>This will unlock the Lanius Salvager.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_SHIP_ANAEROBIC_SALVAGER</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Comming soon ship</text>
+        <event>
+            <text>This will unlock the comming soon ship. There is no purpose why you would do this - can cause crashes when selected in hangar. Only unlock for testing purpose of for fun.</text>
+            <choice>
+                <text>Proceed Unlock</text>
+                <event>
+                    <unlockCustomShip>PLAYER_COMMING_SOON</unlockCustomShip>
+                </event>
+            </choice>
+            <choice>
+                <text>Go back</text>
+            </choice>
+        </event>
+    </choice>
+    <choice>
+        <text>Exit Menu</text>
+        <event/>
+    </choice>
+</event>

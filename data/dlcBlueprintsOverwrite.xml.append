@@ -81,7 +81,7 @@
 	<maxPower amount="6" />
 	<crewCount amount="2" class="phantom_goul" />
 	<crewCount amount="2" class="phantom" />
-	<crewCount amount="2" class="phantom_wraith" />
+	<crewCount amount="1" class="phantom_wraith" />
 	<aug name="FTL_JUMPER" />
 	<shieldImage>fed_tanker</shieldImage>
 	<cloakImage>fed_tanker</cloakImage>

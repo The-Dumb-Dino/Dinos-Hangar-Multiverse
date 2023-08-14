@@ -6,168 +6,6 @@
 •••••••••••••
 -->
 
-<!--The Swallow (Vanilla)-->
-
-<shipBlueprint name="PLAYER_SHIP_HARD_3" layout="kestral_3" img="kestral_3">
-	<class id="ship_PLAYER_SHIP_KESTREL_3_class"/>
-	<name id="ship_PLAYER_SHIP_KESTREL_3_name"/>
-	<desc id="ship_PLAYER_SHIP_KESTREL_3_desc"/>
-	<unlock id="ship_PLAYER_SHIP_KESTREL_3_unlock"/>
-	<systemList>
-		<battery power="1" room="8" start="false" img="room_battery_6" />
-		<cloaking power="1" room="1" start="false" img="room_cloaking_3" />
-		<clonebay power="1" room="9" start="true">
-			<slot>
-				<number>1</number>
-			</slot>
-		</clonebay>
-		<doors power="1" room="10" start="true" img="room_doors">
-			<slot>
-				<direction>up</direction>
-				<number>1</number>
-			</slot>
-		</doors>
-		<drones power="2" room="6" start="false" img="room_drones_13" />
-		<engines power="2" room="5" start="true" img="room_engines">
-			<slot>
-				<direction>down</direction>
-				<number>2</number>
-			</slot>
-		</engines>
-		<hacking power="1" room="14" start="false" img="room_hacking" />
-		<medbay power="1" room="9" start="false" img="room_medbay_8">
-			<slot>
-				<number>1</number>
-			</slot>
-		</medbay>
-		<mind power="1" room="16" start="false" img="room_mind_1" />
-		<oxygen power="1" room="7" start="true" img="room_oxygen_10" />
-		<pilot power="1" room="11" start="true" img="room_pilot">
-			<slot>
-				<direction>right</direction>
-				<number>0</number>
-			</slot>
-		</pilot>
-		<sensors power="2" room="13" start="true" img="room_sensors">
-			<slot>
-				<direction>down</direction>
-				<number>1</number>
-			</slot>
-		</sensors>
-		<shields power="2" room="12" start="true" img="room_shields_3">
-			<slot>
-				<direction>left</direction>
-				<number>2</number>
-			</slot>
-		</shields>
-		<teleporter power="1" room="4" start="false" />
-		<temporal power="1" room="18" start="false" img="room_temporal_9_dino" />
-		<weapons power="2" room="2" start="true" img="room_weapons_2">
-			<slot>
-				<direction>up</direction>
-				<number>1</number>
-			</slot>
-		</weapons>
-	</systemList>
-	<weaponSlots>4</weaponSlots>
-	<droneSlots>2</droneSlots>
-	<weaponList missiles="4" count="4">
-		<weapon name="LASER_BURST_2" />
-		<weapon name="ION_STUN" />
-	</weaponList>
-	<crewCount amount="1" class="human"/>
-	<crewCount amount="1" class="anaerobic"/>
-	<crewCount amount="1" class="human"/>
-	<droneList drones="3" count="2" />
-	<health amount="30" />
-	<maxPower amount="7" />
-	<shieldImage>kestral</shieldImage>
-	<cloakImage>kestral</cloakImage>
-	<floorImage>kestral</floorImage>
-</shipBlueprint>
-
-<!-- Cyrus (Vanilla Lanius C)
-
-<shipBlueprint name="PLAYER_SHIP_ANAEROBIC_3" layout="anaerobic_cruiser_3" img="anaerobic_cruiser_3">
-	<class id="ship_PLAYER_SHIP_ANAEROBIC_3_class"/>
-	<name id="ship_PLAYER_SHIP_ANAEROBIC_3_name"/>
-	<desc id="ship_PLAYER_SHIP_ANAEROBIC_3_desc"/>
-	<unlock id="ship_PLAYER_SHIP_ANAEROBIC_3_unlock"/>
-	<systemList>
-		<battery power="1" room="2" start="false" img="room_battery_22" />
-		<cloaking power="1" room="1" start="false" img="room_cloaking_14" />
-		<clonebay power="1" room="5" start="false">
-			<slot>
-				<number>1</number>
-			</slot>
-		</clonebay>
-		<doors power="1" room="11" start="true" img="room_doors_10">
-			<slot>
-				<direction>right</direction>
-				<number>0</number>
-			</slot>
-		</doors>
-		<drones power="2" room="4" start="false" img="room_drones_19" />
-		<engines power="1" room="7" start="true" img="room_engines_13">
-			<slot>
-				<direction>left</direction>
-				<number>2</number>
-			</slot>
-		</engines>
-		<hacking power="1" room="16" start="false" img="room_hacking_4" />
-		<medbay power="1" room="5" start="true" img="room_medbay_13">
-			<slot>
-				<number>-2</number>
-			</slot>
-		</medbay>
-		<mind power="1" room="15" start="false" img="room_mind_3" />
-		<oxygen power="1" room="14" start="true" img="room_oxygen_19" />
-		<pilot power="1" room="0" start="true" img="room_pilot_2">
-			<slot>
-				<direction>right</direction>
-				<number>1</number>
-			</slot>
-		</pilot>
-		<sensors power="1" room="8" start="true" img="room_sensors_10">
-			<slot>
-				<direction>down</direction>
-				<number>1</number>
-			</slot>
-		</sensors>
-		<shields power="2" room="12" start="true" img="room_shields_15">
-			<slot>
-				<direction>down</direction>
-				<number>3</number>
-			</slot>
-		</shields>
-		<teleporter power="1" room="13" start="true" />
-		<temporal power="1" room="6" start="false" img="room_temporal_24" />
-		<weapons power="3" room="3" start="true" img="room_weapons_16">
-			<slot>
-				<direction>up</direction>
-				<number>1</number>
-			</slot>
-		</weapons>
-	</systemList>
-	<weaponSlots>4</weaponSlots>
-	<droneSlots>2</droneSlots>
-	<weaponList missiles="10" count="4">
-		<weapon name="LASER_BURST_1" />
-		<weapon name="LASER_BURST_1" />
-	</weaponList>
-	<droneList drones="5" count="2" />
-	<health amount="30" />
-	<maxPower amount="8" />
-	<crewCount amount="1" class="anaerobic" />
-	<crewCount amount="1" class="energy" />
-	<crewCount amount="1" class="human" />
-	<crewCount amount="1" class="anaerobic" />
-	<aug name="O2_MASKS" />
-	<shieldImage>anaerobic_cruiser</shieldImage>
-	<cloakImage>anaerobic_cruiser</cloakImage>
-	<floorImage>anaerobic_cruiser</floorImage>
-</shipBlueprint> -->
-
 <!-- Necrozma -->
 
 <shipBlueprint name="PLAYER_SHIP_FED_TANKER_3" layout="fed_tanker_3" img="fed_tanker_3">
@@ -236,14 +74,15 @@
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="0" count="3">
 		<weapon name="BEAM_SLICE_PLAYER" />
-		<weapon name="LASER_HEAVY_OUTDATED" />
+		<weapon name="LASER_LIGHT" />
 	</weaponList>
 	<droneList drones="0" count="2" />
 	<health amount="25" />
 	<maxPower amount="6" />
-	<crewCount amount="4" class="ghost" />
+	<crewCount amount="2" class="phantom_goul" />
+	<crewCount amount="2" class="phantom" />
+	<crewCount amount="2" class="phantom_wraith" />
 	<aug name="FTL_JUMPER" />
-	<aug name="BACKUP_DNA" />
 	<shieldImage>fed_tanker</shieldImage>
 	<cloakImage>fed_tanker</cloakImage>
 </shipBlueprint>
@@ -322,8 +161,7 @@
 	<health amount="35" />
 	<maxPower amount="9" />
 	<crewCount amount="2" class="engi" />
-	<crewCount amount="1" class="rock" />
-	<aug name="BACKUP_DNA" />
+	<crewCount amount="1" class="engi_defender" />
 	<shieldImage>circle_destroyer</shieldImage>
 	<cloakImage>circle_destroyer</cloakImage>
 </shipBlueprint>
@@ -401,9 +239,10 @@
 	<droneList drones="5" count="2" />
 	<health amount="30" />
 	<maxPower amount="9" />
-	<crewCount amount="1" class="human" />
-	<crewCount amount="2" class="mantis" />
-	<crewCount amount="1" class="rock" />
+	<crewCount amount="1" class="human_engineer" />
+	<crewCount amount="1" class="mantis" />
+	<crewCount amount="1" class="leech" />
+	<crewCount amount="1" class="rock_outcast" />
 	<shieldImage>fed_dreadnaught</shieldImage>
 	<cloakImage>fed_dreadnaught</cloakImage>
 	<floorImage>fed_dreadnaught</floorImage>
@@ -478,15 +317,15 @@
 		<weapon name="LASER_BURST_1" />
 	</weaponList>
 	<droneList drones="15" count="2">
-		<drone name="BOARDER_BOSS" />
-		<drone name="BOARDER_BOSS" />
+		<drone name="BOARDER" />
+		<drone name="BOARDER" />
 	</droneList>
 	<health amount="30" />
 	<maxPower amount="8" />
-	<crewCount amount="1" class="engi" />
-	<crewCount amount="1" class="energy" />
-	<crewCount amount="1" class="energy" />
-	<crewCount amount="1" class="energy" />
+	<crewCount amount="1" class="slug" />
+	<crewCount amount="1" class="zoltan_devotee" />
+	<crewCount amount="1" class="zoltan_devotee" />
+	<crewCount amount="1" class="human" />
 	<aug name="ENERGY_SHIELD" />
 	<shieldImage>energy_researchcruiser</shieldImage>
 	<cloakImage>energy_researchcruiser</cloakImage>
@@ -566,8 +405,8 @@
 	<health amount="30" />
 	<maxPower amount="8" />
 	<crewCount amount="1" class="engi" />
-	<crewCount amount="1" class="energy" />
-	<crewCount amount="2" class="mantis" />
+	<crewCount amount="1" class="zoltan" />
+	<crewCount amount="2" class="mantis_suzerain" />
 	<aug name="CREW_STIMS" />
 	<shieldImage>mantis_warship</shieldImage>
 	<cloakImage>mantis_warship</cloakImage>
@@ -648,9 +487,9 @@
 	<health amount="30" />
 	<maxPower amount="8" />
 	<crewCount amount="1" class="slug" />
-	<crewCount amount="1" class="mantis" />
-	<crewCount amount="1" class="ghost" />
-	<crewCount amount="1" class="engi" />
+	<crewCount amount="1" class="slug_saboteur" />
+	<crewCount amount="1" class="phantom" />
+	<crewCount amount="1" class="engi_separatist" />
 	<aug name="SLUG_GEL" />
 	<shieldImage>jelly_warship</shieldImage>
 	<cloakImage>jelly_warship</cloakImage>
@@ -723,15 +562,13 @@
 	<weaponSlots>4</weaponSlots>
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="10" count="4">
-		<weapon name="LASER_BURST_1" />
+		<weapon name="LASER_HEAVY_1" />
 	</weaponList>
 	<droneList drones="10" count="2" />
 	<health amount="30" />
 	<maxPower amount="8" />
-	<crewCount amount="1" class="anaerobic" />
-	<crewCount amount="1" class="anaerobic" />
-	<crewCount amount="1" class="anaerobic" />
-	<crewCount amount="1" class="anaerobic" />
+	<crewCount amount="3" class="lanius" />
+	<crewCount amount="1" class="phantom" />
 	<aug name="O2_MASKS" />
 	<shieldImage>anaerobic_salvager</shieldImage>
 	<cloakImage>anaerobic_salvager</cloakImage>
@@ -743,48 +580,3 @@
 	WEAPONS
 •••••••••••••••
 -->
-
-<weaponBlueprint name="CHAINGUN_HULL">
-	<type>LASER</type>
-	<title id="weapon_CHAINGUN_HULL_title" />
-	<short id="weapon_CHAINGUN_HULL_short" />
-	<tip>tip_chain_laser</tip>
-	<desc id="weapon_CHAINGUN_HULL_desc" />
-	<tooltip id="weapon_CHAINGUN_HULL_tooltip" />
-	<damage>1</damage>
-	<shots>2</shots>
-	<sp>0</sp>
-	<fireChance>2</fireChance>
-	<breachChance>3</breachChance>
-	<cooldown>16</cooldown>
-	<hullBust>1</hullBust>
-	<power>2</power>
-	<cost>70</cost>
-	<bp>0</bp>
-	<rarity>3</rarity>
-	<boost>
-		<type>cooldown</type>
-		<amount>3</amount>
-		<count>3</count>
-	</boost>
-	<image>laser_heavy1</image>
-	<speed>90</speed>
-	<launchSounds>
-		<sound>heavyLaser1</sound>
-		<sound>heavyLaser2</sound>
-		<sound>heavyLaser3</sound>
-	</launchSounds>
-	<hitShipSounds>
-		<sound>hitHull1</sound>
-	</hitShipSounds>
-	<hitShieldSounds>
-		<sound>hitShield1</sound>
-		<sound>hitShield2</sound>
-		<sound>hitShield3</sound>
-	</hitShieldSounds>
-	<missSounds>
-		<sound>miss</sound>
-	</missSounds>
-	<weaponArt>hull_chaingun</weaponArt>
-	<iconImage>laser_chain</iconImage>
-</weaponBlueprint>

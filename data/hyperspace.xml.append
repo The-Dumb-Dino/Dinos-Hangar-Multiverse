@@ -12,15 +12,23 @@
 		<splitVictoryAchievement>true</splitVictoryAchievement>
         <unlock variant="a" silent="false">
             <type>2</type>
-            <shipReq>PLAYER_SHIP_HARD</shipReq>
+            <shipReq>PLAYER_SHIP_MVKESTREL</shipReq>
         </unlock>
         <unlock variant="a" silent="false">
             <type>2</type>
-            <shipReq>PLAYER_SHIP_HARD_2</shipReq>
+            <shipReq>PLAYER_SHIP_KESTREL</shipReq>
         </unlock>
         <unlock variant="a" silent="false">
             <type>2</type>
-            <shipReq>PLAYER_SHIP_HARD_3</shipReq>
+            <shipReq>PLAYER_SHIP_KESTREL_2</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_KESTREL_3</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_VANILLA</shipReq>
         </unlock>
         <unlock variant="b" silent="false">
             <type>1</type>

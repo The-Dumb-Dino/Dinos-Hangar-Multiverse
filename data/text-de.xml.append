@@ -6,17 +6,6 @@
 ************
 -->
 
-<mod:findName type="text" name="ship_PLAYER_SHIP_JELLY_name" language="de">
-  <mod:setValue>Mann des Krieges</mod:setValue>
-</mod:findName>
-
-
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_class" language="de">Lanius-Kreuzer</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_name" language="de">Cyrus</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_desc" language="de">Dieses Laniusschiff sieht wie eine royale Variante der Laniusschiffe. Die Klingen scheinen aus Gold zu bestehen sind jedoch sehr robust.</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Lanius-Kreuzer um dieses Schiff freizuschalten.</text>
-
-
 <text name="ship_PLAYER_SHIP_FED_TANKER_name" language="de">Ocolus</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_class" language="de">Federation-Tanker</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_desc" language="de">Die Ocolus ist ein altes aber immernoch taugliches Transportschiff der Föderation und warscheinlich das letzte seiner Art, da es in den augen von Piraten leichte Beute war. Es wurde mit einer verbesserten Hülle und neuen Waffen ausgestattet und ist nun wieder voll funktionstüchtig.</text>
@@ -143,11 +132,6 @@ Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Pir
   WEAPONS
 ************
 -->
-
-<text name="weapon_CHAINGUN_HULL_desc" language="de">Ein ziemlich einzigartiger Hüllenlaser welcher normal für große Transportschiffe geignet ist.</text>
-<text name="weapon_CHAINGUN_HULL_short" language="de">Hüllen CL</text>
-<text name="weapon_CHAINGUN_HULL_title" language="de">Hüllen Chainlaser</text>
-<text name="weapon_CHAINGUN_HULL_tooltip" language="de">Feuert 2 Schüsse welche 1 trefferpunkt und 2x so viele auf der Hülle anrichten, wird schneller.</text>
 
 <text name="weapon_BEAM_SLICE_desc" language="de">Eine recht turbolent ladende Beam welche alles in 2 hälften schneiden kann.</text>
 <text name="weapon_BEAM_SLICE_short" language="de">Schlitzer</text>

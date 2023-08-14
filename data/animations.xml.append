@@ -7,7 +7,6 @@
 -->
 
 <animSheet name="beam_slice" w="456" h="66" fw="38" fh="66">weapons/beam_slice_strip12.png</animSheet>
-<animSheet name="laser_heavy_outdatet" w="441" h="46" fw="21" fh="46">weapons/heavy_outdatet_strip21.png</animSheet>
 <animSheet name="missile_ion" w="69" h="38" fw="23" fh="38">weapons/missile_ion_strip3.png</animSheet>
 <animSheet name="laser_burst_fire_1" w="240" h="47" fw="20" fh="47">weapons/burst_fire_1_strip12.png</animSheet>
 <animSheet name="laser_heavy_fire_1" w="224" h="62" fw="28" fh="62">weapons/heavy_fire_1_strip8.png</animSheet>
@@ -20,15 +19,6 @@
 	<firePoint  x="23" y="35"/>
 	<mountPoint x="4" y="47"/>
 	<chargeImage>weapons/beam_slice_glow.png</chargeImage>
-</weaponAnim>
-
-<weaponAnim name="laser_heavy_outdatet">
-	<sheet>laser_heavy_outdatet</sheet>
-	<desc length="21" x="0" y="0"/>
-	<chargedFrame>5</chargedFrame>
-	<fireFrame>6</fireFrame>
-	<firePoint  x="14" y="4"/>
-	<mountPoint x="3" y="33"/>
 </weaponAnim>
 
 <weaponAnim name="missile_ion">
@@ -88,17 +78,10 @@
 •••••••••••••••••
 -->
 
-<animSheet name="thruster_FIX" w="88" h="70" fw="22" fh="70">thrusters/thrusters_vanilla.png</animSheet>
 <animSheet name="thruster_transportcruiser_top" w="80" h="56" fw="20" fh="56">thrusters/thrusters_transportcruiser_top.png</animSheet>
 <animSheet name="thruster_transportcruiser_bottom" w="80" h="56" fw="20" fh="56">thrusters/thrusters_transportcruiser_bottom.png</animSheet>
 <animSheet name="thrusters_fed_dreadnaught_top" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_top.png</animSheet>
 <animSheet name="thrusters_fed_dreadnaught_bottom" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_bottom.png</animSheet>
-
-<anim name="thruster_FIX">
-	<sheet>thruster_FIX</sheet>
-	<desc length="4" x="0" y="0"/>
-	<time>0.8</time>
-</anim>
 
 <anim name="thruster_transportcruiser_top">
 	<sheet>thruster_transportcruiser_top</sheet>

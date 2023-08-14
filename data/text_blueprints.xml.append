@@ -6,14 +6,6 @@
 ************
 -->
 
-<!-- Unused
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_class">Lanius Cruiser</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_name">Cyrus</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_desc">This Lanius vessel looks like a royal variant of Lanius ships. Its blades are made out of gold but still seem very robust.</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_3_unlock">Reach Sector 8 with the Shrike to unlock this vessel.</text>
--->
-
-
 <text name="ship_PLAYER_SHIP_FED_TANKER_desc">The Ocolus is an old but still reliable transport ship of the Federation, and is the sole remaining model of its kind; pirates were fond of stealing this series of ship. It has been refurbished with a better hull and stronger weapons.</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_name">Ocolus</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_class">Federation Tanker</text>
@@ -184,18 +176,9 @@ Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to d
 <text name="weapon_ARTILLERY_FED_DREADNAUGHT_title">Modified Artillery Beam</text>
 <text name="weapon_ARTILLERY_FED_DREADNAUGHT_short">Mod-Artillery</text>
 <text name="weapon_ARTILLERY_FED_DREADNAUGHT_desc">This is a modified version of the standard Federation artillery beams; It deals 2 damage to the hull for every room it hits, but is not as long and fast. Can cause fire and breaches. More power means faster cooldown.</text>
-<text name="weapon_ARTILLERY_FED_DREADNAUGHT_tooltip">Artillery: Moddedbeam that deals 2 damage, can set a fire, can cause breaches and pierces all shields.</text>
+<text name="weapon_ARTILLERY_FED_DREADNAUGHT_tooltip">Artillery: Modded beam that deals 2 damage, can set a fire, can cause breaches and pierces all shields.</text>
 
 <text name="weapon_ARTILLERY_FLAME_title">Fire Artillery Beam</text>
 <text name="weapon_ARTILLERY_FLAME_short">Fire-Artillery</text>
 <text name="weapon_ARTILLERY_FLAME_desc">Powers a very hot beam that sets every room it hits on fire, stuns and damages crew and ignores shields. Does not damage systems directly. More power means faster cooldown.</text>
 <text name="weapon_ARTILLERY_FLAME_tooltip">Artillery: Firebeam that deals 1 damage, sets a fire, damages and stuns crew and pierces shields.</text>
-
-<!--Ignore: These texts serve to hide a false bug in VSCode-->
-<text name="ship_PLAYER_SHIP_KESTREL_desc">This class of ship was decommissioned from Federation service years ago. After a number of refits and updates this classic ship is ready for battle.</text>
-<text name="ship_PLAYER_SHIP_KESTREL_2_desc">This modified Kestrel class ship was created by a laser weapon aficionado.</text>
-<text name="ship_PLAYER_SHIP_KESTREL_3_desc">This model was modified by pirates to utilize newly discovered technology. It can clone lost crewmembers and stun enemies.</text>
-<text name="system_oxygen_title">Oxygen</text>
-<text name="system_oxygen_desc">Refills the oxygen in the ship. Upgrading increases the rate of refill.</text>
-<text name="system_weapons_title">Weapon Control</text>
-<text name="system_weapons_desc">Powers all of the ship's weapons. Upgrading lets you power more weapons.</text>

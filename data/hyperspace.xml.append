@@ -48,6 +48,18 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_FED_TANKER">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_FED_TANKER_2">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_FED_TANKER_3">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>10</crewLimit>
     </mod-append:customShip>
 
@@ -86,8 +98,21 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_CIRCLE_DESTROYER">
+      <hiddenAug>SHIP_ENGI</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>10</crewLimit>
     </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_CIRCLE_DESTROYER_2">
+      <hiddenAug>SHIP_ENGI</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_CIRCLE_DESTROYER_3">
+      <hiddenAug>SHIP_ENGI</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+
 
     <mod-append:ship name="PLAYER_SHIP_FED_DREADNAUGHT" b="true" c="true">
 		<arrow variant="a" direction="right" tooltip="ship_unlock_victory" image="arrow_v_right.png" unlockedImage="arrow_v_right_on.png">PLAYER_SHIP_ENERGY_RESEARCHCRUISER</arrow>
@@ -124,6 +149,18 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_FED_DREADNAUGHT">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>9</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_FED_DREADNAUGHT_2">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>9</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_FED_DREADNAUGHT_3">
+      <hiddenAug>SHIP_FEDERATION</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>9</crewLimit>
     </mod-append:customShip>
 
@@ -162,6 +199,18 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_ENERGY_RESEARCHCRUISER">
+      <hiddenAug>SHIP_ZOLTAN</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2">
+      <hiddenAug>SHIP_ZOLTAN</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3">
+      <hiddenAug>SHIP_ZOLTAN</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>8</crewLimit>
     </mod-append:customShip>
 
@@ -200,6 +249,18 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_MANTIS_WARSHIP">
+      <hiddenAug>SHIP_HIVE</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_MANTIS_WARSHIP_2">
+      <hiddenAug>SHIP_HIVE</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_MANTIS_WARSHIP_3">
+      <hiddenAug>SHIP_HIVE</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>8</crewLimit>
     </mod-append:customShip>
 
@@ -238,7 +299,19 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_JELLY_WARSHIP">
+      <hiddenAug>SHIP_SLUG</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_JELLY_WARSHIP_2">
+      <hiddenAug>SHIP_SLUG</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>8</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_JELLY_WARSHIP_3">
+      <hiddenAug>SHIP_SLUG</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+      <crewLimit>8</crewLimit>
     </mod-append:customShip>
 
     <mod-append:ship name="PLAYER_SHIP_ANAEROBIC_SALVAGER" b="true" c="true">
@@ -275,6 +348,18 @@
 		</unlock>
     </mod-append:ship>
     <mod-append:customShip name="PLAYER_SHIP_ANAEROBIC_SALVAGER">
+      <hiddenAug>SHIP_LANIUS</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_ANAEROBIC_SALVAGER_2">
+      <hiddenAug>SHIP_LANIUS</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
+        <crewLimit>10</crewLimit>
+    </mod-append:customShip>
+    <mod-append:customShip name="PLAYER_SHIP_ANAEROBIC_SALVAGER_3">
+      <hiddenAug>SHIP_LANIUS</hiddenAug>
+      <hiddenAug>FOR_MULTIVERSE</hiddenAug>
         <crewLimit>10</crewLimit>
     </mod-append:customShip>
 
@@ -294,7 +379,7 @@
     
             <mod-append:ship>PLAYER_SHIP_ANAEROBIC_SALVAGER</mod-append:ship> <!--(9)-->
             <mod-append:empty/> <!--(10)-->
-        </mod:findLike>
+    </mod:findLike>
     
 </mod:findLike>
 

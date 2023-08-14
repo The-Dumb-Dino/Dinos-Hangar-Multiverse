@@ -153,7 +153,7 @@
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="12" count="4">
 		<weapon name="MISSILES_ION" />
-		<weapon name="LASER_BURST_2_A" />
+		<weapon name="LASER_BURST_2" />
 	</weaponList>
 	<droneList drones="0" count="2" />
 	<health amount="30" />

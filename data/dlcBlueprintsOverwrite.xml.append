@@ -156,7 +156,7 @@
 		<weapon name="BEAM_HULL" />
 	</weaponList>
 	<droneList drones="10" count="3">
-		<drone name="COMBAT_1" />
+		<drone name="COMBAT_1_LASER" />
 	</droneList>
 	<health amount="35" />
 	<maxPower amount="9" />

@@ -64,29 +64,29 @@ Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to d
 
 
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_name">Bequerel</text>
-<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_class">Zoltan Research Cruiser</text>
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_desc">This vessel is researching new technology and is equipped with the new temporal manipulator system. This could be very helpful</text>
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_unlock">Defeat the Flagship with any layout of the Federation Dreadnaught to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_name">Isotop</text>
-<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_class">Zoltan Research Cruiser</text>
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_desc">Another researchcruiser, doing tests with the newly developed temporal manipulation technology. The Technology is used in combination of a mind control system.</text>
-<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_unlock">Get to Sector 8 with the Zoltan Researchcruiser Type A to unlock this ship.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_2_unlock">Get to Sector 8 with the Zoltan Research Cruiser Type A to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_name">Röntgen</text>
-<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_class">Zoltan Researchcruiser</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_class">Zoltan Research Cruiser</text>
 <text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_desc">This ship is a bit different. It does not use weapons in combat, instead its fighting with 2 boarding drones and temporal manipulation to fight.</text>
-<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_unlock">Get to Sector 5 with the Zoltan Researchcruiser Type B or defeat the Flagship with the Zoltan Researchcruiser Type A to unlock this ship.</text>
+<text name="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_unlock">Get to Sector 5 with the Zoltan Research Cruiser Type B or defeat the Flagship with the Zoltan Research Cruiser Type A to unlock this ship.</text>
 
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_class">Mantis Warship</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_name">Satanic Leaf</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_desc">This precious Mantis vesell features a combination of the newly developed temoral manipulator and Mantis' favorite system, the teleporter. The combination allows deadly boarding attacks in a matter of seconds and should not be tampered with.</text>
-<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_unlock">Defeat the Flagship with any layout of the Zoltan Researchcruiser to unlock this ship.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_unlock">Defeat the Flagship with any layout of the Zoltan Research Cruiser to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_class">Mantis Warship</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_name">Cthulhu</text>
-<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc">This ship uses powerful drones and crew to fight and eliminate its enemies, but has a very poor arsenal of weapons that limit its true potential, for now.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc">This ship uses powerful drones, crew and a temporal manipulator to fight and eliminate its enemies, but has a very poor arsenal of weapons that limit its true potential, for now.</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_unlock">Get to Sector 8 with the Mantis Warship Type A to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_class">Mantis Warship</text>
@@ -114,7 +114,7 @@ Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to d
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_class">Lanius Salvager</text>
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_name">Nitoc</text>
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_desc">This Lanius ship was built to recover remains from shipwrecks. It's quite a powerful ship, although it arrived in the hangar with unfinished engines and shields.</text>
-<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_unlock">Defeat the Flagship with any layout of the Zoltan Researchcruiser to unlock this ship.</text>
+<text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_unlock">Defeat the Flagship with any layout of the Zoltan Research Cruiser to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_class">Lanius Salvager</text>
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_2_name">Kirin</text>

@@ -87,13 +87,22 @@ Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Pir
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_class" language="de">Mantis-Schlachtschiff</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_name" language="de">Cthulhu</text>
-<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc" language="de">Dieses Schiff nutzt mächtige Drohnen und Besatzung im Kampf, um seine Feinde zu eliminieren, aber hat ein sehr schwaches Waffenarsenal was das volle Potential vorerst in Fesseln hält.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_desc" language="de">Dieses Schiff nutzt mächtige Drohnen, Besatzung und einen Temporalmanipulator im Kampf, um seine Feinde zu eliminieren, aber hat ein sehr schwaches Waffenarsenal was das volle Potential vorerst in Fesseln hält.</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Mantis-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_class" language="de">Mantis-Schlachtschiff</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_name" language="de">Breker</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_desc" language="de">Ausgestattet mit einem Temporalmanipulator und einem Teleporter kombiniert mit einer Feuer- und Betäubungsbombe, kann dieses Schiff die feindliche Besatzung bei lebendigem Leibe verbrennen und sie gleichzeitig auf die altbekannte Weise eliminieren.</text>
-<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_unlock" language="de">Erreiche Sektor 5 mit dem Mantis-Schlachtschiff Typ B oder besiege das Flagschiff mit dem Mantis-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_3_unlock" language="de">Schließe 2/3 Mantis-Kriegsschiff-Erfolgen ab, um dieses Schiff freizuschalten.</text>
+
+<text name="ach_mantis_warship_1_name" language="de">Schnell und einfach, Geld zurück Garantie</text>
+<text name="ach_mantis_warship_1_desc" language="de">Repariere ein System unter Einfluss des Temporaleffekts, während eines Kampfes 8 mal in einem Spiel, mit dem Mantis-Schlachtschiff.</text>
+
+<text name="ach_mantis_warship_2_name" language="de">Quantität über Qualität</text>
+<text name="ach_mantis_warship_2_desc" language="de">Repariere 6 Balken eines Systems innerhalb von 10 Sekunden, durch den alleinigen Einsatz von Mantis, mit dem Mantis-Schlachtschiff.</text>
+
+<text name="ach_mantis_warship_3_name" language="de">Blutdurst auf vier Dimensionen</text>
+<text name="ach_mantis_warship_3_desc" language="de">Töte durch den alleinigen Einsatz von Mantis die gesamte Crew eines Shiffes, innerhalb von 5 Sekunden, mit dem Mantis-Schlachtschiff.</text>
 
 
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_name" language="de">Der Letzte Admiral</text>

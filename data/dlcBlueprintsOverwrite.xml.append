@@ -317,15 +317,14 @@
 		<weapon name="LASER_BURST_1" />
 	</weaponList>
 	<droneList drones="15" count="2">
-		<drone name="BOARDER" />
-		<drone name="BOARDER" />
+		<drone name="BATTLETOG_BOARDER" />
+		<drone name="BATTLETOG_BOARDER" />
 	</droneList>
 	<health amount="30" />
 	<maxPower amount="8" />
-	<crewCount amount="1" class="slug" />
-	<crewCount amount="1" class="zoltan_devotee" />
-	<crewCount amount="1" class="zoltan_devotee" />
 	<crewCount amount="1" class="human" />
+	<crewCount amount="2" class="zoltan_monk" />
+	<crewCount amount="1" class="human_soldier" />
 	<aug name="ENERGY_SHIELD" />
 	<shieldImage>energy_researchcruiser</shieldImage>
 	<cloakImage>energy_researchcruiser</cloakImage>

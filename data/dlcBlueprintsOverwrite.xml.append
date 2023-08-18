@@ -16,40 +16,40 @@
 	<systemList>
 		<artillery max="4" power="1" room="19" start="true" weapon="ARTILLERY_FED_C" img="room_artillery" />
 		<battery max="2" power="1" room="17" start="true" img="room_battery_5_dino" />
-		<cloaking max="3" power="1" room="13" start="false" img="room_cloaking_6_dino" />
-		<clonebay max="3" power="1" room="5" start="true">
+		<cloaking power="1" room="13" start="false" img="room_cloaking_6_dino" />
+		<clonebay power="1" room="5" start="true">
 			<slot>
 				<number>1</number>
 			</slot>
 		</clonebay>
-		<doors max="3" power="1" room="4" start="true" img="room_doors">
+		<doors power="1" room="4" start="true" img="room_doors">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</doors>
 		<drones max="8" power="2" room="16" start="false" img="room_drones_4" />
-		<engines max="8" power="2" room="1" start="true" img="room_engines_8">
+		<engines power="2" room="1" start="true" img="room_engines_8">
 			<slot>
 				<direction>left</direction>
 				<number>2</number>
 			</slot>
 		</engines>
-		<hacking max="3" power="1" room="6" start="false" img="room_hacking_5_dino" />
-		<medbay max="3" power="1" room="2" start="false" img="room_medbay_3_dino">
+		<hacking power="1" room="6" start="false" img="room_hacking_5_dino" />
+		<medbay power="1" room="2" start="false" img="room_medbay_3_dino">
 			<slot>
 				<number>-2</number>
 			</slot>
 		</medbay>
-		<mind max="3" power="1" room="7" start="false" img="room_mind_5_dino" />
-		<oxygen max="3" power="1" room="8" start="false" img="room_oxygen_4" />
-		<pilot max="3" power="1" room="0" start="true" img="room_pilot">
+		<mind power="1" room="7" start="false" img="room_mind_5_dino" />
+		<oxygen power="1" room="8" start="false" img="room_oxygen_4" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors max="3" power="1" room="3" start="true" img="room_sensors">
+		<sensors power="1" room="3" start="true" img="room_sensors">
 			<slot>
 				<direction>down</direction>
 				<number>1</number>
@@ -61,8 +61,8 @@
 				<number>3</number>
 			</slot>
 		</shields>
-		<teleporter max="3" power="1" room="15" start="false" />
-		<temporal max="3" power="1" room="14" start="false" img="room_temporal_6_dino" />
+		<teleporter power="1" room="15" start="false" />
+		<temporal power="1" room="14" start="false" img="room_temporal_6_dino" />
 		<weapons max="8" power="3" room="9" start="true" img="room_weapons">
 			<slot>
 				<direction>up</direction>
@@ -96,40 +96,40 @@
 	<unlock id="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_unlock"/>
 	<systemList>
 		<battery max="2" power="1" room="13" start="false" img="room_battery_16" />
-		<cloaking max="3" power="1" room="9" start="false" img="room_cloaking_10" />
-		<clonebay max="3" power="1" room="1" start="true">
+		<cloaking power="1" room="9" start="false" img="room_cloaking_10" />
+		<clonebay power="1" room="1" start="true">
 			<slot>
 				<number>3</number>
 			</slot>
 		</clonebay>
-		<doors max="3" power="1" room="12" start="true" img="room_doors_4">
+		<doors power="1" room="12" start="true" img="room_doors_4">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
 			</slot>
 		</doors>
 		<drones max="8" power="2" room="11" start="true" img="room_drones_5_dino" />
-		<engines max="8" power="2" room="8" start="true" img="room_engines_4_dino">
+		<engines power="2" room="8" start="true" img="room_engines_4_dino">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</engines>
-		<hacking max="3" power="1" room="3" start="false" img="room_hacking_6_dino" />
-		<medbay max="3" power="1" room="1" start="false" img="room_medbay_3">
+		<hacking power="1" room="3" start="false" img="room_hacking_6_dino" />
+		<medbay power="1" room="1" start="false" img="room_medbay_3">
 			<slot>
 				<number>3</number>
 			</slot>
 		</medbay>
-		<mind max="3" power="1" room="6" start="false" img="room_mind_6_dino" />
-		<oxygen max="3" power="1" room="15" start="true" img="room_oxygen_7_dino" />
-		<pilot max="3" power="1" room="0" start="true" img="room_pilot_2">
+		<mind power="1" room="6" start="false" img="room_mind_6_dino" />
+		<oxygen power="1" room="15" start="true" img="room_oxygen_7_dino" />
+		<pilot power="1" room="0" start="true" img="room_pilot_2">
 			<slot>
 				<direction>right</direction>
 				<number>1</number>
 			</slot>
 		</pilot>
-		<sensors max="3" power="1" room="4" start="true" img="room_sensors_1_dino">
+		<sensors power="1" room="4" start="true" img="room_sensors_1_dino">
 			<slot>
 				<direction>left</direction>
 				<number>0</number>
@@ -141,9 +141,9 @@
 				<number>1</number>
 			</slot>
 		</shields>
-		<teleporter max="3" power="1" room="16" start="false" />
-		<temporal max="3" power="1" room="5" start="false" img="room_temporal_6_dino" />
-		<weapons max="4" power="2" room="2" start="true" img="room_weapons_2_dino">
+		<teleporter power="1" room="16" start="false" />
+		<temporal power="1" room="5" start="false" img="room_temporal_6_dino" />
+		<weapons max="8" power="2" room="2" start="true" img="room_weapons_2_dino">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
@@ -177,40 +177,40 @@
 	<systemList>
 		<artillery max="4" power="1" room="13" start="true" weapon="ARTILLERY_FED_DREADNAUGHT" img="room_artillery_2_dino" />
 		<battery max="2" power="1" room="2" start="false" img="room_battery_2" />
-		<cloaking max="3" power="1" room="8" start="false" img="room_cloaking_3" />
-		<clonebay max="3" power="1" room="20" start="true">
+		<cloaking power="1" room="8" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="20" start="true">
 			<slot>
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors max="3" power="1" room="11" start="true" img="room_doors">
+		<doors power="1" room="11" start="true" img="room_doors">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</doors>
 		<drones max="8" power="2" room="21" start="false" img="room_drones_15" />
-		<engines max="8" power="2" room="1" start="true" img="room_engines_2_dino">
+		<engines power="2" room="1" start="true" img="room_engines_2_dino">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</engines>
-		<hacking max="3" power="1" room="17" start="false" img="room_hacking" />
-		<medbay max="3" power="1" room="20" start="false" img="room_medbay_1_dino">
+		<hacking power="1" room="17" start="false" img="room_hacking" />
+		<medbay power="1" room="20" start="false" img="room_medbay_1_dino">
 			<slot>
 				<number>-2</number>
 			</slot>
 		</medbay>
-		<mind max="3" power="1" room="6" start="false" img="room_mind_5" />
-		<oxygen max="3" power="1" room="9" start="true" img="room_oxygen_1_dino" />
-		<pilot max="3" power="1" room="0" start="true" img="room_pilot_fed_dreadnaught_dino">
+		<mind power="1" room="6" start="false" img="room_mind_5" />
+		<oxygen power="1" room="9" start="true" img="room_oxygen_1_dino" />
+		<pilot power="1" room="0" start="true" img="room_pilot_fed_dreadnaught_dino">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors max="3" power="1" room="22" start="true" img="room_sensors">
+		<sensors power="1" room="22" start="true" img="room_sensors">
 			<slot>
 				<direction>down</direction>
 				<number>1</number>
@@ -222,8 +222,8 @@
 				<number>3</number>
 			</slot>
 		</shields>
-		<teleporter max="3" power="2" room="10" start="true" />
-		<temporal max="3" power="1" room="19" start="false" img="room_temporal_6_dino" />
+		<teleporter power="2" room="10" start="true" />
+		<temporal power="1" room="19" start="false" img="room_temporal_6_dino" />
 		<weapons max="8" power="2" room="5" start="true" img="room_weapons">
 			<slot>
 				<direction>up</direction>
@@ -258,40 +258,40 @@
 	<unlock id="ship_PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3_unlock"/>
 	<systemList>
 		<battery max="2" power="1" room="15" start="false" img="room_battery_2_dino" />
-		<cloaking max="3" power="1" room="16" start="false" img="room_cloaking_3" />
-		<clonebay max="3" power="1" room="5" start="true">
+		<cloaking power="1" room="16" start="false" img="room_cloaking_3" />
+		<clonebay power="1" room="5" start="true">
 			<slot>
 				<number>1</number>
 			</slot>
 		</clonebay>
-		<doors max="3" power="1" room="14" start="true" img="room_doors">
+		<doors power="1" room="14" start="true" img="room_doors">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</doors>
 		<drones max="8" power="4" room="9" start="true" img="room_drones_6" />
-		<engines max="8" power="2" room="8" start="true" img="room_doors">
+		<engines power="2" room="8" start="true" img="room_doors">
 			<slot>
 				<direction>up</direction>
 				<number>0</number>
 			</slot>
 		</engines>
-		<hacking max="3" power="1" room="12" start="false" img="room_hacking_2" />
+		<hacking power="1" room="12" start="false" img="room_hacking_2" />
 		<medbay max="4" power="1" room="5" start="false" img="room_doors">
 			<slot>
 				<number>-2</number>
 			</slot>
 		</medbay>
-		<mind max="3" power="1" room="13" start="false" img="room_mind_6" />
-		<oxygen max="3" power="1" room="2" start="true" img="room_oxygen_3_dino" />
-		<pilot max="3" power="1" room="0" start="true" img="room_pilot">
+		<mind power="1" room="13" start="false" img="room_mind_6" />
+		<oxygen power="1" room="2" start="true" img="room_oxygen_3_dino" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors max="3" power="2" room="7" start="true" img="room_sensors_3_dino">
+		<sensors power="2" room="7" start="true" img="room_sensors_3_dino">
 			<slot>
 				<direction>right</direction>
 				<number>1</number>
@@ -303,8 +303,8 @@
 				<number>3</number>
 			</slot>
 		</shields>
-		<teleporter max="3" power="1" room="10" start="false" />
-		<temporal max="3" power="1" room="4" start="true" img="room_temporal_10_dino" />
+		<teleporter power="1" room="10" start="false" />
+		<temporal power="1" room="4" start="true" img="room_temporal_10_dino" />
 		<weapons max="8" power="1" room="1" start="true" img="room_weapons_4_dino">
 			<slot>
 				<direction>up</direction>
@@ -422,8 +422,8 @@
 	<unlock id="ship_PLAYER_SHIP_JELLY_WARSHIP_3_unlock"/>
 	<systemList>
 		<battery max="2" power="1" room="5" start="false" img="room_battery_3" />
-		<cloaking max="3" power="1" room="18" start="false" img="room_cloaking_5_dino" />
-		<clonebay max="3" power="1" room="20" start="false">
+		<cloaking power="1" room="18" start="false" img="room_cloaking_5_dino" />
+		<clonebay power="1" room="20" start="false">
 			<slot>
 				<number>0</number>
 			</slot>
@@ -435,27 +435,27 @@
 			</slot>
 		</doors>
 		<drones max="8" power="1" room="13" start="false" img="room_drones_3" />
-		<engines max="8" power="1" room="19" start="true" img="room_engines_2_dino">
+		<engines power="1" room="19" start="true" img="room_engines_2_dino">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
 			</slot>
 		</engines>
-		<hacking max="3" power="1" room="16" start="false" img="room_hacking_2" />
-		<medbay max="3" power="1" room="20" start="true" img="room_medbay_2_dino">
+		<hacking power="1" room="16" start="false" img="room_hacking_2" />
+		<medbay power="1" room="20" start="true" img="room_medbay_2_dino">
 			<slot>
 				<number>-2</number>
 			</slot>
 		</medbay>
-		<mind max="3" power="1" room="17" start="false" img="room_mind_5" />
-		<oxygen max="3" power="1" room="21" start="true" img="room_oxygen" />
-		<pilot max="3" power="1" room="0" start="true" img="room_pilot">
+		<mind power="1" room="17" start="false" img="room_mind_5" />
+		<oxygen power="1" room="21" start="true" img="room_oxygen" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors max="3" power="1" room="2" start="true" img="room_sensors">
+		<sensors power="1" room="2" start="true" img="room_sensors">
 			<slot>
 				<direction>down</direction>
 				<number>1</number>
@@ -467,8 +467,8 @@
 				<number>2</number>
 			</slot>
 		</shields>
-		<teleporter max="3" power="1" room="12" start="false" />
-		<temporal max="3" power="1" room="7" start="false" img="room_temporal_7_dino"/>
+		<teleporter power="1" room="12" start="false" />
+		<temporal power="1" room="7" start="false" img="room_temporal_7_dino"/>
 		<weapons max="8" power="4" room="8" start="true" img="room_weapons_10">
 			<slot>
 				<direction>up</direction>

@@ -13,3 +13,7 @@
 
 
 <text name="tip_missiles_ion">Tip: Ion missiles works like normal missiles, but they also deal 1 ion damage when they pass through shields and when they hit a room.</text>
+
+<!-- placeholder until MV 5.4 -->
+<text name="hangar_achievements_title_default">Ship Achievements</text>
+<text name="hangar_no_ship_achievements">No Ship Achievements</text>

@@ -194,3 +194,8 @@ Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Pir
 -->
 
 <text name="tip_missiles_ion" language="de">Tipp: Ionenraketen funktionieren genauso wie normale Raketen aber verursachen ebenso Ionenschaden wenn die eine Schildblase durchqueren und wenn sie einen Raum treffen.</text>
+
+
+<!-- placeholder until MV 5.4 -->
+<text name="hangar_achievements_title_default">Schiffserfolge</text>
+<text name="hangar_no_ship_achievements">Keine Schiffserfolge</text>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<mod:findLike type="ships">
+<version>^1.8.0</version>
 
+<showShipAchievements enabled="true" toggle="true" hideIfMissing="true" id="hangar_achievements_title_default"/>
+
+<mod:findLike type="ships">
 
     <!--SHIPS-->
 
@@ -277,7 +280,7 @@
     </mod-append:customShip>
 
     <mod-append:ship name="PLAYER_SHIP_JELLY_WARSHIP" b="true" c="true">
-		<arrow variant="a" direction="left" tooltip="ship_unlock_victory" image="arrow_v_left.png" unlockedImage="arrow_v_left_on.png">PLAYER_SHIP_ANAEROBIC_SALVAGER</arrow>
+		<!--<arrow variant="a" direction="left" tooltip="ship_unlock_victory" image="arrow_v_left.png" unlockedImage="arrow_v_left_on.png">PLAYER_SHIP_ANAEROBIC_SALVAGER</arrow>-->
 		<splitVictoryAchievement>true</splitVictoryAchievement>
         <unlock variant="a" silent="false">
             <type>2</type>

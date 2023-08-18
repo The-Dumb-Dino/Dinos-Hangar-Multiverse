@@ -158,7 +158,7 @@
 	<droneList drones="10" count="3">
 		<drone name="COMBAT_1_LASER" />
 	</droneList>
-	<health amount="35" />
+	<health amount="30" />
 	<maxPower amount="9" />
 	<crewCount amount="2" class="engi" />
 	<crewCount amount="1" class="engi_defender" />
@@ -353,7 +353,7 @@
 				<number>1</number>
 			</slot>
 		</doors>
-		<drones power="2" room="7" start="false" img="room_drones_6" />
+		<drones power="2" room="7" start="true" img="room_drones_6" />
 		<engines power="1" room="3" start="true" img="room_engines_4">
 			<slot>
 				<direction>down</direction>
@@ -397,16 +397,16 @@
 	</systemList>
 	<weaponSlots>3</weaponSlots>
 	<droneSlots>2</droneSlots>
-	<weaponList missiles="15" count="3">
-		<weapon name="BOMB_FIRE" />
-		<weapon name="BOMB_STUN" />
+	<weaponList missiles="5" count="3">
+		<weapon name="LASER_HEAVY_1" />
 	</weaponList>
-	<droneList drones="0" count="2" />
+	<droneList drones="5" count="2">
+		<drone name="BOARDER_ION" />
+	</droneList>
 	<health amount="30" />
 	<maxPower amount="8" />
-	<crewCount amount="1" class="engi" />
-	<crewCount amount="1" class="zoltan" />
-	<crewCount amount="2" class="mantis_suzerain" />
+	<crewCount amount="2" class="mantis_free" />
+	<crewCount amount="1" class="mantis_bishop" />
 	<aug name="CREW_STIMS" />
 	<shieldImage>mantis_warship</shieldImage>
 	<cloakImage>mantis_warship</cloakImage>

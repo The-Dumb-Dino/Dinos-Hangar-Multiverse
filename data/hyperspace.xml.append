@@ -215,6 +215,24 @@
     </mod-append:customShip>
 
     <mod-append:ship name="PLAYER_SHIP_MANTIS_WARSHIP" b="true" c="true">
+        <achievement name="ACH_SHIP_MANTIS_WARSHIP_1" layout="all">
+            <name id="ach_mantis_warship_1_name"/>
+            <description id="ach_mantis_warship_1_desc"/>
+            <icon>mantis_warship_ach_1</icon>
+            <lockImage>mantis_warship_ach_1_lock</lockImage>
+        </achievement>
+        <achievement name="ACH_SHIP_MANTIS_WARSHIP_2" layout="all">
+            <name id="ach_mantis_warship_2_name"/>
+            <description id="ach_mantis_warship_2_desc"/>
+            <icon>mantis_warship_ach_2</icon>
+            <lockImage>mantis_warship_ach_2_lock</lockImage>
+        </achievement>
+        <achievement name="ACH_SHIP_MANTIS_WARSHIP_3" layout="all">
+            <name id="ach_mantis_warship_3_name"/>
+            <description id="ach_mantis_warship_3_desc"/>
+            <icon>mantis_warship_ach_3</icon>
+            <lockImage>mantis_warship_ach_3_lock</lockImage>
+        </achievement>
 		<arrow variant="a" direction="left" tooltip="ship_unlock_victory" image="arrow_v_left.png" unlockedImage="arrow_v_left_on.png">PLAYER_SHIP_JELLY_WARSHIP</arrow>
 		<splitVictoryAchievement>true</splitVictoryAchievement>
         <unlock variant="a" silent="false">
@@ -230,18 +248,12 @@
             <shipReq>PLAYER_SHIP_ENERGY_RESEARCHCRUISER_3</shipReq>
         </unlock>
         <unlock variant="b" silent="false">
-            <type>1</type>
-            <shipReq>PLAYER_SHIP_MANTIS_WARSHIP</shipReq>
-            <value>8</value>
+            <type>4</type>
         </unlock>
         <unlock variant="c" silent="false">
             <type>1</type>
             <shipReq>PLAYER_SHIP_MANTIS_WARSHIP_2</shipReq>
             <value>5</value>
-        </unlock>
-        <unlock variant="c" silent="false">
-            <type>2</type>
-            <shipReq>PLAYER_SHIP_MANTIS_WARSHIP</shipReq>
         </unlock>
         <!--Unlocker Cheat-->
 		<unlock variant="a" silent="false">
@@ -367,26 +379,30 @@
     <!--Page-->
     
     <mod:findLike type="shipOrder">
-            <mod-append:ship>PLAYER_SHIP_FED_TANKER</mod-append:ship> <!--(1)-->
-            <mod-append:ship>PLAYER_SHIP_CIRCLE_DESTROYER</mod-append:ship> <!--(2)-->
-            <mod-append:ship>PLAYER_SHIP_FED_DREADNAUGHT</mod-append:ship> <!--(3)-->
-            <mod-append:ship>PLAYER_SHIP_ENERGY_RESEARCHCRUISER</mod-append:ship> <!--(4)-->
-    
-            <mod-append:ship>PLAYER_SHIP_MANTIS_WARSHIP</mod-append:ship> <!--(5)-->
-            <mod-append:ship>PLAYER_SHIP_JELLY_WARSHIP</mod-append:ship> <!--(6)-->
-            <mod-append:empty/> <!--(7)-->
-            <mod-append:empty/> <!--(8)-->
-    
-            <mod-append:ship>PLAYER_SHIP_ANAEROBIC_SALVAGER</mod-append:ship> <!--(9)-->
-            <mod-append:empty/> <!--(10)-->
+        <mod-append:ship>PLAYER_SHIP_FED_TANKER</mod-append:ship> <!--(1)-->
+        <mod-append:ship>PLAYER_SHIP_CIRCLE_DESTROYER</mod-append:ship> <!--(2)-->
+        <mod-append:ship>PLAYER_SHIP_FED_DREADNAUGHT</mod-append:ship> <!--(3)-->
+        <mod-append:ship>PLAYER_SHIP_ENERGY_RESEARCHCRUISER</mod-append:ship> <!--(4)-->
+
+        <mod-append:ship>PLAYER_SHIP_MANTIS_WARSHIP</mod-append:ship> <!--(5)-->
+        <mod-append:ship>PLAYER_SHIP_JELLY_WARSHIP</mod-append:ship> <!--(6)-->
+        <mod-append:empty/> <!--(7)-->
+        <mod-append:empty/> <!--(8)-->
+
+        <mod-append:ship>PLAYER_SHIP_ANAEROBIC_SALVAGER</mod-append:ship> <!--(9)-->
+        <mod-append:empty/> <!--(10)-->
     </mod:findLike>
     
 </mod:findLike>
 
-
+<mod:findLike type="scripts" limit="1">
+    <mod-append:script>data/dino_scripts/ships-ach.lua</mod-append:script>
+</mod:findLike>
 
 <!--unlocker event for pre-release-->
 
 <events>
-<eventFile>unlocker</eventFile>
+    <variable name="loc_ach_mantis_time_repairs" op="set" val="0"/>
+    <variable name="loc_ach_mantis_only_boarders" op="set" val="0"/>
+    <eventFile>unlocker</eventFile>
 </events>

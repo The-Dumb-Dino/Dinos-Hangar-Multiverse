@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<text name="tip_missiles_ion">Tip: Ionmissiles works like normal missiles, but they also deal 1 ion damage when they pass through shields and when they hit a room.</text>
+
+<!-- Mantis Warship achievement text -->
+<text name="ach_mantis_warship_1_name">Quick n' Easy, Money Back Guarantee</text>
+<text name="ach_mantis_warship_1_desc">Repair a system under the temporal effect while in combat 10 times in one run with the Mantis Warship.</text>
+
+<text name="ach_mantis_warship_2_name">Quantity Over Quality</text>
+<text name="ach_mantis_warship_2_desc">Repair 6 bars of a system in 10 seconds with only mantis crew while using the Mantis Warship.</text>
+
+<text name="ach_mantis_warship_3_name">Blood Thirst in Four Dimensions</text>
+<text name="ach_mantis_warship_3_desc">Using only mantis boarders, kill the crew of a ship in 5 seconds while using the Mantis Warship.</text>
+
+
+<text name="tip_missiles_ion">Tip: Ion missiles works like normal missiles, but they also deal 1 ion damage when they pass through shields and when they hit a room.</text>

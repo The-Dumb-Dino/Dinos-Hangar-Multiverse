@@ -406,7 +406,7 @@
 	<health amount="30" />
 	<maxPower amount="8" />
 	<crewCount amount="2" class="mantis_free" />
-	<crewCount amount="1" class="mantis_bishop" />
+	<crewCount amount="1" class="mantis_warlord" />
 	<aug name="CREW_STIMS" />
 	<shieldImage>mantis_warship</shieldImage>
 	<cloakImage>mantis_warship</cloakImage>

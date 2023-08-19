@@ -75,5 +75,8 @@ Type B - "PLAYER_SHIP_ANAEROBIC_SALVAGER_2"
 
 Type C - "PLAYER_SHIP_ANAEROBIC_SALVAGER_3"
 
+
 ## Credits
-limber (limber0807 on discord) did great playtesting and told me a lot of bugs that were in the game
+@Chrono VOrtex - Ship achievements in lua
+@limber - Much feedback and bug reports
+@Ultimate drone Fan - Bug reports

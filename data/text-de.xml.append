@@ -9,7 +9,7 @@
 <text name="ship_PLAYER_SHIP_FED_TANKER_name" language="de">Ocolus</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_class" language="de">Federation-Tanker</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_desc" language="de">Die Ocolus ist ein altes aber immernoch taugliches Transportschiff der Föderation und warscheinlich das letzte seiner Art, da es in den augen von Piraten leichte Beute war. Es wurde mit einer verbesserten Hülle und neuen Waffen ausgestattet und ist nun wieder voll funktionstüchtig.</text>
-<text name="ship_PLAYER_SHIP_FED_TANKER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Kestrelkreuzer, um dieses Schiff freizuschalten.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_unlock" language="de">Besiege das Flagschiff mit einem Kestrelkreuzer, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_class" language="de">Federation-Tanker</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_name" language="de">Monocrom</text>

@@ -44,6 +44,9 @@
 <roomLayout name="weapons_8_dino">
 	<computerGlow x="0" y="8" dir="LEFT"/>
 </roomLayout>
+<roomLayout name="weapons_9_dino">
+	<computerGlow x="6" y="54" dir="DOWN" />
+</roomLayout>
 
 <roomLayout name="shields_1_dino">
 	<computerGlow x="42" y="53" dir="DOWN"/>

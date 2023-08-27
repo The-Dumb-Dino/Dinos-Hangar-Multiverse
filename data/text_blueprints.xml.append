@@ -9,7 +9,7 @@
 <text name="ship_PLAYER_SHIP_FED_TANKER_desc">The Ocolus is an old but still reliable transport ship of the Federation, and is the sole remaining model of its kind; pirates were fond of stealing this series of ship. It has been refurbished with a better hull and stronger weapons.</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_name">Ocolus</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_class">Federation Tanker</text>
-<text name="ship_PLAYER_SHIP_FED_TANKER_unlock">Defeat the Flagship with any layout of the Kestrel Cruiser to unlock this ship.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_unlock">Defeat the Flagship with any Kestrel Cruiser to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_class">Federation Tanker</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_name">Monocrom</text>

@@ -13,7 +13,15 @@
 		<splitVictoryAchievement>true</splitVictoryAchievement>
         <unlock variant="a" silent="false">
             <type>2</type>
-            <shipReq>PLAYER_SHIP_MVKESTREL</shipReq>
+            <shipReq>VANILLA_SHIP_KESTREL</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>VANILLA_SHIP_KESTREL_2</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>VANILLA_SHIP_KESTREL_3</shipReq>
         </unlock>
         <unlock variant="a" silent="false">
             <type>2</type>
@@ -26,6 +34,18 @@
         <unlock variant="a" silent="false">
             <type>2</type>
             <shipReq>PLAYER_SHIP_KESTREL_3</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>ELITE_SHIP_GHOST_2</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_MVKESTREL</shipReq>
+        </unlock>
+        <unlock variant="a" silent="false">
+            <type>2</type>
+            <shipReq>CREW_SHIP_SLOT1</shipReq>
         </unlock>
         <unlock variant="a" silent="false">
             <type>2</type>
@@ -168,7 +188,7 @@
     </mod-append:customShip>
 
     <mod-append:ship name="PLAYER_SHIP_ENERGY_RESEARCHCRUISER" b="true" c="true">
-		<arrow variant="a" direction="down" tooltip="ship_unlock_victory" image="arrow_v_down.png" unlockedImage="arrow_v_down_on.png">PLAYER_SHIP_MANTIS_WARHSIP</arrow>
+		<arrow variant="a" direction="down" tooltip="ship_unlock_victory" image="arrow_v_down.png" unlockedImage="arrow_v_down_on.png">PLAYER_SHIP_MANTIS_WARSHIP</arrow>
 		<splitVictoryAchievement>true</splitVictoryAchievement>
         <unlock variant="a" silent="false">
             <type>2</type>

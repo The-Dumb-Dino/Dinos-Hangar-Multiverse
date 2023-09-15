@@ -79,8 +79,8 @@ Type C - "PLAYER_SHIP_ANAEROBIC_SALVAGER_3"
 ## Credits
 @Chrono Vortex - Ship achievements in lua
 
-@limber - Much feedback and bug reports
+@limber - Much feedback and bug reports for early Version
 
-@Ultimate drone Fan - Bug reports
+@Ultimate drone Fan - Bug reports for early Version
 
-@[REDACTED] - Bug report
+@[REDACTED] - Bug report for early Version

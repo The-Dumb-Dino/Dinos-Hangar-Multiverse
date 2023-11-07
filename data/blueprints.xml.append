@@ -83,7 +83,7 @@
 	<crewCount amount="1" class="human" />
 	<crewCount amount="1" class="orchid" />
 	<crewCount amount="1" class="mantis_free" />
-	<aug name="FTL_JUMPER" />
+	<aug name="EX_FTL_JUMPER" />
 </shipBlueprint>
 
 <!-- Monocrom -->
@@ -161,7 +161,7 @@
 	<crewCount amount="1" class="human_engineer" />
 	<crewCount amount="1" class="slug" />
 	<crewCount amount="1" class="zoltan" />
-	<aug name="FTL_JUMPER" />
+	<aug name="EX_FTL_JUMPER" />
 	<shieldImage>fed_tanker</shieldImage>
 	<cloakImage>fed_tanker</cloakImage>
 </shipBlueprint>
@@ -241,7 +241,7 @@
 	<crewCount amount="1" class="engi" />
 	<crewCount amount="1" class="engi" />
 	<crewCount amount="1" class="engi" />
-	<aug name="NANO_MEDBAY" />
+	<aug name="EX_MEDBAY_NANO" />
 </shipBlueprint>
 
 <!-- Watt -->
@@ -320,7 +320,7 @@
 	<maxPower amount="9" />
 	<crewCount amount="1" class="engi_separatist" />
 	<crewCount amount="1" class="engi_separatist" />
-	<aug name="NANO_MEDBAY" />
+	<aug name="EX_MEDBAY_NANO" />
 	<shieldImage>circle_destroyer</shieldImage>
 	<cloakImage>circle_destroyer</cloakImage>
 </shipBlueprint>
@@ -515,7 +515,7 @@
 		<hacking power="1" room="11" start="false" img="room_hacking_2" />
 		<medbay power="1" room="12" start="true" img="room_medbay_3">
 			<slot>
-				<number>-2</number>
+				<number>3</number>
 			</slot>
 		</medbay>
 		<mind power="1" room="7" start="false" img="room_mind_3_dino" />
@@ -559,7 +559,7 @@
 	<crewCount amount="1" class="engi" />
 	<crewCount amount="1" class="zoltan" />
 	<crewCount amount="1" class="zoltan" />
-	<aug name="ENERGY_SHIELD" />
+	<aug name="LOCKED_ENERGY_SHIELD" />
 </shipBlueprint>
 
 <!-- Isotop -->
@@ -636,7 +636,7 @@
 	<maxPower amount="7" />
 	<crewCount amount="1" class="engi" />
 	<crewCount amount="2" class="zoltan_devotee" />
-	<aug name="ENERGY_SHIELD" />
+	<aug name="LOCKED_ENERGY_SHIELD" />
 	<shieldImage>energy_researchcruiser</shieldImage>
 	<cloakImage>energy_researchcruiser</cloakImage>
 </shipBlueprint>
@@ -715,7 +715,7 @@
 	<crewCount amount="1" class="human_engineer" />
 	<crewCount amount="2" class="mantis" />
 	<crewCount amount="1" class="mantis_suzerain" />
-	<aug name="CREW_STIMS" />
+	<aug name="LOCKED_CREW_STIMS" />
 </shipBlueprint>
 
 <!-- Cthulhu -->
@@ -793,7 +793,7 @@
 	<crewCount amount="1" class="engi" />
 	<crewCount amount="1" class="zoltan" />
 	<crewCount amount="2" class="mantis_suzerain" />
-	<aug name="CREW_STIMS" />
+	<aug name="LOCKED_SUZERAIN_CREW_STIMS" />
 	<shieldImage>mantis_warship</shieldImage>
 	<cloakImage>mantis_warship</cloakImage>
 </shipBlueprint>
@@ -871,7 +871,7 @@
 	<maxPower amount="7" />
 	<crewCount amount="2" class="slug" />
 	<crewCount amount="1" class="slug_hektar" />
-	<aug name="SLUG_GEL" />
+	<aug name="LOCKED_SLUG_GEL" />
 </shipBlueprint>
 
 <!--Hurricane Trapper-->
@@ -948,7 +948,7 @@
 	<crewCount amount="2" class="slug_clansman" />
 	<crewCount amount="1" class="rock_outcast" />
 	<crewCount amount="1" class="human_rebel" />
-	<aug name="SLUG_GEL" />
+	<aug name="LOCKED_SLUG_GEL" />
 	<shieldImage>jelly_warship</shieldImage>
 	<cloakImage>jelly_warship</cloakImage>
 </shipBlueprint>
@@ -1028,7 +1028,7 @@
 	<crewCount amount="2" class="lanius" />
 	<crewCount amount="1" class="human" />
 	<crewCount amount="1" class="engi_separatist" />
-	<aug name="O2_MASKS" />
+	<aug name="EX_O2_MASKS" />
 </shipBlueprint>
 
 <!--Kirin-->
@@ -1105,7 +1105,7 @@
 	<crewCount amount="1" class="zoltan_devotee" />
 	<crewCount amount="1" class="lanius_welder" />
 	<crewCount amount="1" class="phantom" />
-	<aug name="O2_MASKS" />
+	<aug name="EX_O2_MASKS" />
 	<shieldImage>anaerobic_salvager</shieldImage>
 	<cloakImage>anaerobic_salvager</cloakImage>
 </shipBlueprint>

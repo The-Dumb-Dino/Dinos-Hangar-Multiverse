@@ -82,7 +82,7 @@
 	<crewCount amount="2" class="phantom_goul" />
 	<crewCount amount="2" class="phantom" />
 	<crewCount amount="1" class="phantom_wraith" />
-	<aug name="FTL_JUMPER" />
+	<aug name="EX_FTL_JUMPER" />
 	<shieldImage>fed_tanker</shieldImage>
 	<cloakImage>fed_tanker</cloakImage>
 </shipBlueprint>
@@ -162,6 +162,7 @@
 	<maxPower amount="9" />
 	<crewCount amount="2" class="engi" />
 	<crewCount amount="1" class="engi_defender" />
+	<aug name="EX_MEDBAY_NANO"/>
 	<shieldImage>circle_destroyer</shieldImage>
 	<cloakImage>circle_destroyer</cloakImage>
 	<floorImage>circle_destroyer</floorImage>
@@ -326,7 +327,7 @@
 	<crewCount amount="1" class="human" />
 	<crewCount amount="2" class="zoltan_monk" />
 	<crewCount amount="1" class="human_soldier" />
-	<aug name="ENERGY_SHIELD" />
+	<aug name="LOCKED_ENERGY_SHIELD" />
 	<shieldImage>energy_researchcruiser</shieldImage>
 	<cloakImage>energy_researchcruiser</cloakImage>
 	<floorImage>energy_researchcruiser</floorImage>
@@ -407,7 +408,7 @@
 	<maxPower amount="8" />
 	<crewCount amount="2" class="mantis_free" />
 	<crewCount amount="1" class="mantis_warlord" />
-	<aug name="CREW_STIMS" />
+	<aug name="LOCKED_SUPER_CREW_STIMS" />
 	<shieldImage>mantis_warship</shieldImage>
 	<cloakImage>mantis_warship</cloakImage>
 	<floorImage>mantis_warship</floorImage>
@@ -490,7 +491,7 @@
 	<crewCount amount="1" class="slug_saboteur" />
 	<crewCount amount="1" class="phantom" />
 	<crewCount amount="1" class="engi_separatist" />
-	<aug name="SLUG_GEL" />
+	<aug name="LOCKED_SLUG_GEL" />
 	<shieldImage>jelly_warship</shieldImage>
 	<cloakImage>jelly_warship</cloakImage>
 	<floorImage>jelly_warship</floorImage>
@@ -569,7 +570,7 @@
 	<maxPower amount="8" />
 	<crewCount amount="3" class="lanius" />
 	<crewCount amount="1" class="phantom" />
-	<aug name="O2_MASKS" />
+	<aug name="EX_O2_MASKS" />
 	<shieldImage>anaerobic_salvager</shieldImage>
 	<cloakImage>anaerobic_salvager</cloakImage>
 	<floorImage>anaerobic_salvager</floorImage>

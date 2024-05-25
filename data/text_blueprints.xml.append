@@ -16,8 +16,7 @@
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_desc">The Monocrom is an older transporter ship that the Militia acquired ages ago, but it saw limited use until now.</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_2_unlock">Get to Sector 8 with the Federation Tanker Type A to unlock this ship.</text>
 
-<text name="ship_PLAYER_SHIP_FED_TANKER_3_desc">This old transporter was located in an asteroid field by a Federation scout.
-The ship endured some damage, but it survived. It was then repaired, so that it could fly again.</text>
+<text name="ship_PLAYER_SHIP_FED_TANKER_3_desc">This old transporter was located in an asteroid field by a Federation scout.&#10;The ship endured some damage, but it survived. It was then repaired, so that it could fly again.</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_3_name">Necrozma</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_3_class">Federation Tanker</text>
 <text name="ship_PLAYER_SHIP_FED_TANKER_3_unlock">Get to Sector 5 with the Federation Tanker Type B or defeat the Flagship with the Federation Tanker Type A to unlock this ship.</text>
@@ -30,36 +29,28 @@ The ship endured some damage, but it survived. It was then repaired, so that it 
 
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_name">Watt</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_class">Engi Destroyer</text>
-<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc">The Watt is a rather weak ship;
-A very small reactor, a weak drone and weapons that can't even do any damage make it a weak target.
-It is said that only a good captain can get to something with this ship.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc">The Watt is a rather weak ship;&#10;A very small reactor, a weak drone and weapons that can't even do any damage make it a weak target.&#10;It is said that only a good captain can get to something with this ship.</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_unlock">Get to Sector 8 with the Engi Destroyer Type A to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_name">Ampere</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_class">Engi Destroyer</text>
-<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc">The Ampere is a rather complicated ship;
-Drone and weapon must be in unison to cause damage.
-A real challenge.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc">The Ampere is a rather complicated ship;&#10;Drone and weapon must be in unison to cause damage.&#10;A real challenge.</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_unlock">Get to Sector 5 with the Engi Destroyer Type B or defeat the Flagship with the Engi Destroyer Type A to unlock this ship.</text>
 
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_name">Stormbreaker</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_class">Federation Dreadnaught</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc">This is the Stormbreaker.
-Well known for its infamous artillery that burns ship hulls in seconds.
-The Stormbreaker was originally used as a renegade that protected bases and stations of the Federation. But now it is used to save the Multiverse.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc">This is the Stormbreaker.&#10;Well known for its infamous artillery that burns ship hulls in seconds.&#10;The Stormbreaker was originally used as a renegade that protected bases and stations of the Federation. But now it is used to save the Multiverse.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_unlock">Defeat the Flagship with any layout of the Engi Destroyer to unlock this ship..</text>
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_name">Flamethrower</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_class">Federation Dreadnaught</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc">This is the Flamethrower.
-Like its sister ship the Stormbreaker its euquipped with an really hot artillery, but thats not all. It is outfitted with strong fire weapons and its crew was made for the heat.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc">This is the Flamethrower.&#10;Like its sister ship the Stormbreaker its euquipped with an really hot artillery, but thats not all. It is outfitted with strong fire weapons and its crew was made for the heat.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_unlock">Get to Sector 8 with the Federation Dreadnaught Type A to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_name">Bonecracker</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_class">Federation Dreadnaught</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc">This is the Bonecracker.
-Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to defeat such an elite and hijack it afterwards. But now its in the hands of the Federation again.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc">This is the Bonecracker.&#10;Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to defeat such an elite and hijack it afterwards. But now its in the hands of the Federation again.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_unlock">Get to Sector 5 with the Federation Dreadnaught Type B or defeat the Flagship with the Federation Dreadnaught Type A to unlock this ship.</text>
 
 
@@ -109,6 +100,38 @@ Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to d
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_class">Slug Warship</text>
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_desc">This Slug ship carries a big variety of races on board and is equipped with a decent weapon arsenal.</text>
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_unlock">Get to Sector 5 with the Slug Warship Type B or defeat the Flagship with the Slug Warship Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_class">Rock Mining Frigate</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_name">Rammbock</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_desc">After receiving the Rammbock from the Rockment, it was sent to a shipyard where the ship was overhauled and fitted with major military improvements, especially in terms of weaponry.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_unlock">Defeat the Flagship with any layout of the Slug Warship to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_class">Rock Mining Frigate</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_name">Vishnu</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_desc">This ship is considered one of the "burning coffins", as it lacks airlocks, making it a real challenge to get hazards away.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_unlock">Get to Sector 8 with the Rock Mining Frigate Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_class">Rock Mining Frigate</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_name">Moldavit</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_desc">Although the origin of this vessel is uncertain, it is clear that it was constructed with the assistance of crystalline beings.&#10;&#10;According to rumors, the ship was previously owned by a group of illegal crystal miners before it was acquired by the Federation.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_unlock">Get to Sector 5 with the Rock Mining Frigate Type B or defeat the Flagship with the Rock Mining Frigate Type A to unlock this ship.</text>
+
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_class">Stealth Bomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_name">Aegolius</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_desc">The Aegolius is one of a select few stealth bomber class ships that have been constructed and do not exist solely as blueprints. The ship was designed as a bomber for military operations, but was not suitable for mass production.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_unlock">Defeat the Flagship with any layout of the Rock Mining Frigate to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_class">Stealth Bomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_name">IO-LS 236</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_desc">This modified vessel is equipped with a mix of weapons, drones, and cloaking technology, but still lacks a shield. However, it starts with an unusually high amount of reactor power.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_unlock">Get to Sector 8 with the Stealth Bomber Type A to unlock this ship.</text>
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_class">Stealth Bomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_name">Hans-Ulrich R</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_desc">A direct descendant of the Stealth Bomber class, this ship was modified by the rebels while in possession of the blueprint. It's equipped with powerful weapons and an improved cloaking system, but the budget didn't seem to allow for enough power.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_unlock">Get to Sector 5 with the Stealth Bomber Type B or defeat the Flagship with the Stealth Bomber Type A to unlock this ship.</text>
 
 
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_class">Lanius Salvager</text>

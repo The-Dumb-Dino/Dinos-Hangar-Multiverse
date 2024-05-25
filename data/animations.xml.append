@@ -82,6 +82,8 @@
 <animSheet name="thruster_transportcruiser_bottom" w="80" h="56" fw="20" fh="56">thrusters/thrusters_transportcruiser_bottom.png</animSheet>
 <animSheet name="thrusters_fed_dreadnaught_top" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_top.png</animSheet>
 <animSheet name="thrusters_fed_dreadnaught_bottom" w="108" h="74" fw="27" fh="74">thrusters/thrusters_fed_dreadnaught_bottom.png</animSheet>
+<animSheet name="thrusters_stealth_bomber_top" w="52" h="20" fw="13" fh="20">thrusters/thrusters_stealth_bomber_top.png</animSheet>
+<animSheet name="thrusters_stealth_bomber_bottom" w="52" h="20" fw="13" fh="20">thrusters/thrusters_stealth_bomber_bottom.png</animSheet>
 
 <anim name="thruster_transportcruiser_top">
 	<sheet>thruster_transportcruiser_top</sheet>
@@ -103,6 +105,18 @@
 
 <anim name="thrusters_fed_dreadnaught_bottom">
 	<sheet>thrusters_fed_dreadnaught_bottom</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thrusters_stealth_bomber_top">
+	<sheet>thrusters_stealth_bomber_top</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.8</time>
+</anim>
+
+<anim name="thrusters_stealth_bomber_bottom">
+	<sheet>thrusters_stealth_bomber_bottom</sheet>
 	<desc length="4" x="0" y="0"/>
 	<time>0.8</time>
 </anim>

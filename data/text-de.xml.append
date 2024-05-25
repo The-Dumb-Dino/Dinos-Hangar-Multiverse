@@ -24,43 +24,33 @@
 
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_name" language="de">Volt</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_class" language="de">Engi-Zerstörer</text>
-<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_desc" language="de">Die Volt ist erstmal ein ungefährliches Schiff zu sein.
-Vorallem weil es keine Waffen besitzt, allerdings ist es reichlich mit Dronen ausgestattet die sowohl das Schiff verteidigen als auch den Gegenüber attakieren können.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_desc" language="de">Die Volt ist erstmal ein ungefährliches Schiff zu sein.&#10;Vorallem weil es keine Waffen besitzt, allerdings ist es reichlich mit Dronen ausgestattet die sowohl das Schiff verteidigen als auch den Gegenüber attakieren können.</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Federation-Tanker, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_name" language="de">Watt</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_class" language="de">Engi-Zerstörer</text>
-<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc" language="de">Die Watt ist ein eher schwaches Schiff;
-Ein sehr kleiner Reaktor, eine schwache Drone und Waffen die nicht einmal Schaden anrichten können machen es ein schwaches Ziel.
-Es heißt nur ein guter Capitain kann etwas mit diesen Schiff reißen.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_desc" language="de">Die Watt ist ein eher schwaches Schiff;&#10;Ein sehr kleiner Reaktor, eine schwache Drone und Waffen die nicht einmal Schaden anrichten können machen es ein schwaches Ziel.&#10;Es heißt nur ein guter Capitain kann etwas mit diesen Schiff reißen.</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Engi-Zerstörer Typ A, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_name" language="de">Ampere</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_class" language="de">Engi-Zerstörer</text>
-<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc" language="de">Die Ampere ist ein eher kompliziertes Schiff,
-Drohne und Waffe müssen im Einklang sein, um Schaden anzurichte.
-Eine wohl wahre Herausforderun.
-A real challenge.</text>
+<text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_desc" language="de">Die Ampere ist ein eher kompliziertes Schiff,&#10;Drohne und Waffe müssen im Einklang sein, um Schaden anzurichte.&#10;Eine wahre Herausforderun.</text>
 <text name="ship_PLAYER_SHIP_CIRCLE_DESTROYER_3_unlock" language="de">Erreiche Sektor 5 mit dem Engi-Zerstörer Typ B oder besiege das Flagschiff mit dem Engi-Zerstörer Typ A, um dieses Schiff freizuschalten.</text>
 
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_name" language="de">Sturmbrecher</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_class" language="de">Federation-Großkampfschiff</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc" language="de">Dies ist der Sturmbrecher.
-Weit bekannt für seine Artillerie welche bereits viele Schiffe in Sekunden verbrannte.
-Der Sturmbrecher diente in der Vergangenheit als ein elite Wächter einer vernichteten Federationsbasis.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_desc" language="de">Dies ist der Sturmbrecher.&#10;Weit bekannt für seine Artillerie welche bereits viele Schiffe in Sekunden verbrannte.&#10;Der Sturmbrecher diente in der Vergangenheit als ein elite Wächter einer vernichteten Federationsbasis.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_unlock" language="de">Besiege das Flagschiff mit einer Variante von Engi-Zerstörer, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_name" language="de">Flammenwerfer</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_class" language="de">Federation-Großkampfschiff</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc" language="de">Dies ist der FLammenwerfer.
-Ebenso wie sein Schwesterschiff den Sturmbrecher ist er mit einer feurigen Artillerie ausgestattet. Das ist aber nicht alles, ebenso besitzt er starke Brandwaffen und eine Besatzung die wie für die Flammen geschaffen wurde</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc" language="de">Dies ist der FLammenwerfer.&#10;Ebenso wie sein Schwesterschiff den Sturmbrecher ist er mit einer feurigen Artillerie ausgestattet. Das ist aber nicht alles, ebenso besitzt er starke Brandwaffen und eine Besatzung die wie für die Flammen geschaffen wurde</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_unlock" language="de">Erreiche Sektor 8 mit einer Variante des Federation-Großkampfschiff Typ A, um dieses Schiff freizuschalten.</text>
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_name" language="de">Knochenbrecher</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_class" language="de">Federation-Großkampfschiff</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc" language="de">Dies ist der Knochenbrecher.
-Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Piraten wohl geschafft solch eine Elite auszuschalten und daraufhin noch zu karpern. Aber jetzt liegt das Schiff wieder in den Händen der Federation.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc" language="de">Dies ist der Knochenbrecher.&#10;Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Piraten wohl geschafft solch eine Elite auszuschalten und daraufhin noch zu karpern. Aber jetzt liegt das Schiff wieder in den Händen der Federation.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_unlock" language="de">Erreiche Sektor 5 mit dem Federation-Großkampfschiff Typ B oder besiege das Flagschiff mit dem Federation-Großkampfschiff Typ A, um dieses Schiff freizuschalten.</text>
 
 
@@ -119,6 +109,38 @@ Es ist ein Modell der Federations Großkampfschiffen.Irgendwie haben es paar Pir
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_class" language="de">Snecko-Schlachtschiff</text>
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_desc" language="de">Dieses Snecko-Schiff trägt Rassen aller Art an Bord und ist mit anständigen Waffen ausgestattet.</text>
 <text name="ship_PLAYER_SHIP_JELLY_WARSHIP_3_unlock" language="de">Erreiche Sektor 5 mit dem Snecko-Schlachtschiff Typ B oder besiege das Flagschiff mit dem Snecko-Schlachtschiff Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_class" language="de">Felis-Bergbaufregatte</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_name" language="de">Rammbock</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_desc" language="de">Nachdem die Rammbock in Besitz genommen wurde, brachte man sie direkt in eine Schiffswerft. Dort wurden signifikante militärische Um- und Aufrüstungen vorgenommen, insbesondere im Bereich der Waffen.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_unlock" language="de">Besiege das Flagschiff mit einer Variante von Snecko-Schlachtschiff, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_class" language="de">Felis-Bergbaufregatte</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_name" language="de">Vishnu</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_desc" language="de">Dieses Schiff wird von vielen zu den "Brennenden Särgen" gezählt, da es keine Luftschleusen besitzt. Das erschwert die Aufgabe, Gefahren von Bord zu halten.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_2_unlock" language="de">Erreiche Sektor 8 mit der Felis-Bergbaufregatte Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_class" language="de">Felis-Bergbaufregatte</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_name" language="de">Moldavit</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_desc" language="de">Obwohl die Herkunft dieses Schiffes unbekannt ist, ist klar, dass es mithilfe der Kristallos entworfen wurde.&#10;&#10;Gerüchten zufolge gehörte das Schiff zuvor einer Bande, die illegal Kristalle abbauten.</text>
+<text name="ship_PLAYER_SHIP_ROCK_MINING_3_unlock" language="de">Erreiche Sektor 5 mit dem Felis-Bergbaufregatte Typ B oder besiege das Flagschiff mit der Felis-Bergbaufregatte Typ A, um dieses Schiff freizuschalten.</text>
+
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_class" language="de">Tarnbomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_name" language="de">Aegolius</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_desc" language="de">Die Aegolius ist eines der wenigen Schiffe der Tarnbomberklasse, die gebaut wurden und nicht nur als Blaupause existieren. Dieses Schiff wurde als Bomber für militärische Einsätze konzipiert, eignete sich aber nicht für die Massenproduktion.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_unlock" language="de">Besiege das Flagschiff mit einer Variante von Felis-Bergbaufregatte, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_class" language="de">Tarnbomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_name" language="de">IL-NS 236</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_desc" language="de">Dieses modifizierte Schiff ist mit einer Mischung aus Waffen, Drohnen und Tarntechnologie ausgestattet, hat aber immer noch keinen Schild. Dafür hat es einen ungewöhnlich starken Reaktor.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_2_unlock" language="de">Erreiche Sektor 8 mit der Tarnbomber Typ A, um dieses Schiff freizuschalten.</text>
+
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_class" language="de">Tarnbomber</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_name" language="de">Hans-Ulrich R</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_desc" language="de">Dieses Schiff ist ein direkter Nachfahre der Tarnkappenbomberklasse und wurde von den Rebellen modifiziert, als sie in den Besitz des Bauplans waren. Es verfügt über eine starke Bewaffnung und ein verbessertes Tarnsystem, aber das Budget scheint für den Reaktor nicht auszureichen.</text>
+<text name="ship_PLAYER_SHIP_STEALTH_BOMBER_3_unlock" language="de">Erreiche Sektor 5 mit der Tarnbomber Typ B oder besiege das Flagschiff mit dem Tarnbomber Typ A, um dieses Schiff freizuschalten.</text>
 
 
 <text name="ship_PLAYER_SHIP_ANAEROBIC_SALVAGER_class" language="de">Lanius-Plünderer</text>

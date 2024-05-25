@@ -20,34 +20,6 @@
 	<computerGlow x="42" y="0" dir="UP"/>
 </roomLayout>
 
-<roomLayout name="weapons_1_dino">
-	<computerGlow x="0" y="40" dir="LEFT"/>
-</roomLayout>
-<roomLayout name="weapons_2_dino">
-	<computerGlow x="41" y="0" dir="UP"/>
-</roomLayout>
-<roomLayout name="weapons_3_dino">
-	<computerGlow x="0" y="7" dir="LEFT"/>
-</roomLayout>
-<roomLayout name="weapons_4_dino">
-	<computerGlow x="8" y="0" dir="UP"/>
-</roomLayout>
-<roomLayout name="weapons_5_dino">
-	<computerGlow x="42" y="0" dir="UP"/>
-</roomLayout>
-<roomLayout name="weapons_6_dino">
-	<computerGlow x="41" y="0" dir="UP"/>
-</roomLayout>
-<roomLayout name="weapons_7_dino">
-	<computerGlow x="40" y="0" dir="UP"/>
-</roomLayout>
-<roomLayout name="weapons_8_dino">
-	<computerGlow x="0" y="8" dir="LEFT"/>
-</roomLayout>
-<roomLayout name="weapons_9_dino">
-	<computerGlow x="6" y="54" dir="DOWN" />
-</roomLayout>
-
 <roomLayout name="shields_1_dino">
 	<computerGlow x="42" y="53" dir="DOWN"/>
 </roomLayout>
@@ -77,4 +49,38 @@
 </roomLayout>
 <roomLayout name="shields_10_dino">
 	<computerGlow x="52" y="6" dir="RIGHT"/>
+</roomLayout>
+<roomLayout name="shields_11_dino">
+	<computerGlow x="38" y="53" dir="DOWN" />
+</roomLayout>
+
+<roomLayout name="weapons_1_dino">
+	<computerGlow x="0" y="40" dir="LEFT"/>
+</roomLayout>
+<roomLayout name="weapons_2_dino">
+	<computerGlow x="41" y="0" dir="UP"/>
+</roomLayout>
+<roomLayout name="weapons_3_dino">
+	<computerGlow x="0" y="7" dir="LEFT"/>
+</roomLayout>
+<roomLayout name="weapons_4_dino">
+	<computerGlow x="8" y="0" dir="UP"/>
+</roomLayout>
+<roomLayout name="weapons_5_dino">
+	<computerGlow x="42" y="0" dir="UP"/>
+</roomLayout>
+<roomLayout name="weapons_6_dino">
+	<computerGlow x="41" y="0" dir="UP"/>
+</roomLayout>
+<roomLayout name="weapons_7_dino">
+	<computerGlow x="40" y="0" dir="UP"/>
+</roomLayout>
+<roomLayout name="weapons_8_dino">
+	<computerGlow x="0" y="8" dir="LEFT"/>
+</roomLayout>
+<roomLayout name="weapons_9_dino">
+	<computerGlow x="6" y="54" dir="DOWN" />
+</roomLayout>
+<roomLayout name="weapons_10_dino">
+	<computerGlow x="0" y="40" dir="LEFT" />
 </roomLayout>

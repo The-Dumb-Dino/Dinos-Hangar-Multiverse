@@ -45,12 +45,12 @@
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_name">Flamethrower</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_class">Federation Dreadnaught</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc">This is the Flamethrower.&#10;Like its sister ship the Stormbreaker its euquipped with an really hot artillery, but thats not all. It is outfitted with strong fire weapons and its crew was made for the heat.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_desc">This is the Flamethrower.&#10;Like its sister ship the Stormbreaker its equipped with an really hot artillery, but thats not all. It is outfitted with strong fire weapons and its crew was made for the heat.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_2_unlock">Get to Sector 8 with the Federation Dreadnaught Type A to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_name">Bonecracker</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_class">Federation Dreadnaught</text>
-<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc">This is the Bonecracker.&#10;Is a modell of the federation Dreadnaughts. Somehow some pirates managed it to defeat such an elite and hijack it afterwards. But now its in the hands of the Federation again.</text>
+<text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_desc">This is the Bonecracker.&#10;Is a model of the federation Dreadnaughts. Somehow some pirates managed it to defeat such an elite and hijack it afterwards. But now its in the hands of the Federation again.</text>
 <text name="ship_PLAYER_SHIP_FED_DREADNAUGHT_3_unlock">Get to Sector 5 with the Federation Dreadnaught Type B or defeat the Flagship with the Federation Dreadnaught Type A to unlock this ship.</text>
 
 
@@ -72,7 +72,7 @@
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_class">Mantis Warship</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_name">Satanic Leaf</text>
-<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_desc">This precious Mantis vesell features a combination of the newly developed temoral manipulator and Mantis' favorite system, the teleporter. The combination allows deadly boarding attacks in a matter of seconds and should not be tampered with.</text>
+<text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_desc">This precious Mantis vessel features a combination of the newly developed temporal manipulator and Mantis' favorite system, the teleporter. The combination allows deadly boarding attacks in a matter of seconds and should not be tampered with.</text>
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_unlock">Defeat the Flagship with any layout of the Zoltan Research Cruiser to unlock this ship.</text>
 
 <text name="ship_PLAYER_SHIP_MANTIS_WARSHIP_2_class">Mantis Warship</text>
@@ -172,7 +172,7 @@
 
 <text name="weapon_LASER_HEAVY_OUTDATED_desc">A old Heavy Laser type weapon that takes longer to charge.</text>
 <text name="weapon_LASER_HEAVY_OUTDATED_short">Out. H.L.</text>
-<text name="weapon_LASER_HEAVY_OUTDATED_title">Outdatet Heavy Laser</text>
+<text name="weapon_LASER_HEAVY_OUTDATED_title">Outdated Heavy Laser</text>
 <text name="weapon_LASER_HEAVY_OUTDATED_tooltip">An old Laser, but it can still be effective.</text>
 
 <text name="weapon_MISSILES_ION_desc">This is a unique rocket launcher, developed and created by the Militia; it fires a very strongly charged missile that ionizes systems and shields.</text>
@@ -183,7 +183,7 @@
 <text name="weapon_LASER_BURST_FIRE_1_title">Fire Defense Laser Mark I</text>
 <text name="weapon_LASER_BURST_FIRE_1_short">Basic Firelaser I</text>
 <text name="weapon_LASER_BURST_FIRE_1_desc">This is a modified type of the defense laser that will ignite a fire when hit.</text>
-<text name="weapon_LASER_BURST_FIRE_1_tooltip">Modiefied basic laser, deals 1 damage and ignites a fire</text>
+<text name="weapon_LASER_BURST_FIRE_1_tooltip">Modified basic laser, deals 1 damage and ignites a fire</text>
 
 <text name="weapon_LASER_HEAVY_FIRE_1_title">Heavy Fire Laser Mark I</text>
 <text name="weapon_LASER_HEAVY_FIRE_1_short">Heavy Firelaser I</text>
